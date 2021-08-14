@@ -29,8 +29,8 @@ const mainBody = {
       url: "https://www.instagram.com/notlameman",
     },
     {
-      image: "fa-wordpress",
-      url: "https://fruitfulrambles.wordpress.com/",
+      image: "fa-medium",
+      url: "https://medium.com/@tanyjnaaman",
     },
   ],
 };
