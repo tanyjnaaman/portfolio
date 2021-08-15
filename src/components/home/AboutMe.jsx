@@ -33,7 +33,7 @@ const AboutMe = ({ heading, message_primary, message_secondary, message_tertiary
     <div id="aboutme" className="jumbotron jumbotron-fluid m-0">
       <div className="container container-fluid">
         <div className="row">
-          <div className="col d-none d-lg-block align-self-center">
+          <div className="col d-block align-self-center">
             <div className="text-center">
               <div className="d-grid gap-10">
                 <div className="p-2 bg-transparent">
