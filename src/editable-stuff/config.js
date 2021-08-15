@@ -80,7 +80,7 @@ const experiences = {
       companyName: "Nyx Intelligence",
       duration: 'Jun 2020 – Jul 2020',
       role: 'Part-time Software Engineer Intern',
-      description: "Successfully developed a web application by using ASP.NET MVC4, Web API with Vue JS, Webapp leveraged Entity framework (EF) Core in the environment by using Visual Studio.",
+      description: "Successfully developed a web application by using ASP.NET MVC4 and Vue JS. Webapp leveraged Entity framework (EF) Core in the environment by using Visual Studio.",
     },
   ]
 }
@@ -180,7 +180,7 @@ const projects = ({
       projectLogo: require("../editable-stuff/assets/projects/Rio.png"),
       duration: "Jun 2020 - Aug 2021",
       role: "Team Lead",
-      description: "Top 10 finalist among 140+ teams. Led a team of four in prototyping a integrated waste management solution based on p2p services and a waste-classification machine learning model. Drew a wireframe in Figma and implemented a simple image classification model based on MobileNet.",
+      description: "Top 10 finalist among 140+ international teams. Led a team of four in prototyping a integrated waste management solution based on p2p services and a waste-classification machine learning model. Drew a wireframe in Figma and implemented a simple image classification model based on MobileNet.",
       skills: "TensorFlow 2.0, Figma, Adobe Creative Cloud | python",
       links: [
         {

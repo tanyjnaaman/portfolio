@@ -8,7 +8,7 @@ import {
 const ExperienceCard = ({companyLogo, companyName, duration, role, description}) => {
     return ( 
         <Col lg="6">
-            <Card>
+            <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
                 <Card.Img variant="top" src={companyLogo}/>
                 <Card.Body>
                     <Card.Title>{companyName}</Card.Title>
