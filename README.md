@@ -23,7 +23,7 @@
 - [Credits](#credits-)
 - [What's next](#What's-next-)
 
-## Technology Stack 🛠️
+## Technology Stack
 
 Dependencies defined in package.json:
 
@@ -33,7 +33,7 @@ Dependencies defined in package.json:
 | [GitHub API](https://developer.github.com/v3/repos/)
 | [Instagram API](https://www.instagram.com/developer/embedding/)
 
-## Structure ⚓
+## Structure
 
 - Navigation bar
 - Body
