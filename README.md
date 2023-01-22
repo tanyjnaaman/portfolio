@@ -24,5 +24,5 @@ npm start
 
 ## Todo
 
-- [] Introduce icons with hover behaviour for header
-- [] Introduce icons for work/projects
+- Introduce icons with hover behaviour for header
+- Introduce icons for work/projects
