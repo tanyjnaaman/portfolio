@@ -14,7 +14,6 @@ const SummaryItem = ({ name, description, link = false, internal = false }) => {
   } else {
     linkContent = <a href={link}>{name}</a>;
   }
-
   return (
     <div className={classes.wrapper}>
       <h3

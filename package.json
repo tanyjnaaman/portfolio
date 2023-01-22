@@ -52,7 +52,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "custom-deploy": "node publish.js"
+    "custom-deploy": "node publish.js",
+    "deploy": "npm run build && npm run custom-deploy"
   },
   "repository": {
     "type": "git",

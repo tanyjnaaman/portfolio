@@ -1,6 +1,6 @@
 ---
 title: Reflecting on leaving mechanical engineering, two years later
-date: "2023-01-22T12:00:00.00Z"
+date: '2023-01-22T12:00:00.00Z'
 description: "If you too are thinking about this, maybe let's have a chat!"
 ---
 
@@ -18,7 +18,7 @@ That semester would begin what has been the very wild, often times wonderful, bu
 
 We have to go further back than two years ago for this. Back in 2019, I matriculated as a double degree student in mechanical engineering and economics. Why mechanical engineering? Well, it was sorta related to why economics as well. In much of my teens, I - and I suspect a good number of my peers at the time, too - was very idealistic and going through my own struggles with my health and in school. And this idealism manifested itself as a deep desire to do something somehow so great that it would outshine all of the things I had thought of as my failures and my points of shame. In particular, I had settled on the decision to enter the civil service, and so I thought covering my bases in mechanical engineering and economics would make me this special individual.
 
-It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship, and a lot of with was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I'd just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.
+It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship, and a lot of which was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I'd just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.
 
 ## My three semesters of engineering
 
@@ -28,7 +28,7 @@ It added to my sense of disillusionment towards engineering. And I started reali
 
 At the end of my second semester, interestingly, I had a chat with this friend of mine, Jessica - and she mentioned that she was considering changing her course of study from Chemical Engineering to Environmental Studies. She, too, hated engineering.
 
-But my seniors insisted - engineering in year 1 is dumb, year 2 will be cool, and will kick your ass. So I decided to keep my mind open, and try another semester of engineering. Year 2 came along - and I carefully selected my classes. I hadn't told anyone of my idea of changing course - it might not come to pass, after all, but I knew I needed to begin exploring. So I did 7 modules - some more focused on engineering (fluid mechanics, strength of materials, introduction ot material science), some more relevant to my second degree in economics - I wasn't giving this up (statistical computing, accounting for economists), and the class that would change the trajectory of my life - introduction to machine learning. I also threw myself into a robotics club and begged to work on all systems - mechanical, electronic/control and software systems.
+But my seniors insisted - engineering in year 1 is dumb, year 2 will be cool, and will kick your ass. So I decided to keep my mind open, and try another semester of engineering. Year 2 came along - and I carefully selected my classes. I hadn't told anyone of my idea of changing course - it might not come to pass, after all, but I knew I needed to begin exploring. So I did 7 modules - some more focused on engineering (fluid mechanics, strength of materials, introduction to material science), some more relevant to my second degree in economics - I wasn't giving this up (statistical computing, accounting for economists), and the class that would change the trajectory of my life - introduction to machine learning. I also threw myself into a robotics club and begged to work on all systems - mechanical, electronic/control and software systems.
 
 I dominated the curves that semester as I got straight A+'s in what has been my best semester academically to date. The robotics project was also going well. But delving deeper, what should have been satisfaction in topping the cohort in my engineering classes was instead a sense of emptiness - the feeling that I could never see myself using this knowledge. Instead, I had deeply and intimately enjoyed my introduction to machine learning class - a class all my peers hated with a passion, going so far as to self learn deep learning from textbooks. I knew at that point I had to change.
 

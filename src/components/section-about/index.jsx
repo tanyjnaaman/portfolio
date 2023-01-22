@@ -6,7 +6,7 @@ const SectionAbout = ({ about }) => {
   return (
     <Section title="About Me">
       <div className="mb-6">
-        {about.split('\n').map((line, index, array) => ((index + 1) === array.length ? <p>
+        {about.split('\n').map((line, index, array) => ((index + 1) === array.length ? <p key={index}>
           {line}
         </p> 
           : <><p>
