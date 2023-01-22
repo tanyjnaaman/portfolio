@@ -22,7 +22,7 @@ These build and then deploy using github pages.
 npm start
 ```
 
-## Todo
+## What's next
 
 - Introduce icons with hover behaviour for header
 - Introduce icons for work/projects
