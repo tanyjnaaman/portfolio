@@ -20,7 +20,7 @@ module.exports = {
     resume: `https://drive.google.com/file/d/1Nn3kwaH1fpHfHhJzDk2OdnAj4D9M0Ziu/view?usp=share_link`,
     // Content of the About Me section
     about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
-      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've never looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, distributed systems etc., and I think it's pretty neat.
+      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, distributed systems etc., and I think it's pretty neat.
       Beyond computer science, I spend my time reading books, playing badminton and watching movies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -55,27 +55,42 @@ module.exports = {
           'https://drive.google.com/drive/folders/1bIgIb5x4_caLx1UAguyDZMEh8IomUV5t?usp=share_link',
       },
     ],
-    // Optional: List your experience, they must have `name` and `description`. `link` is optional.
+    // Optional: List your experience, they must have `name` and `description`. `link` and `img` are optional.
     experience: [
       {
+        name: 'Apple inc.',
+        description: 'Machine Learning Engineer Intern, Sept 2023 - Dec 2023',
+        link: 'https://searchads.apple.com/',
+        img:
+          'https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png',
+      },
+      {
         name: 'Palantir Technologies (London)',
-        description: 'Software Engineer Intern, June 2023 - Present',
+        description: 'Software Engineer Intern, June 2023 - Sept 2023',
         link: 'https://www.palantir.com/',
+        img:
+          'https://companieslogo.com/img/orig/PLTR-236711ab.png?t=1634119414&download=true',
       },
       {
         name: 'Hypotenuse AI',
         description: 'Full-Stack Software Engineer Intern, May 2022 - Aug 2022',
         link: 'https://www.hypotenuse.ai/',
+        img:
+          'https://images.glints.com/unsafe/180x0/glints-dashboard.s3.amazonaws.com/company-logo/202f62685abc2dd727eb211222da3f3c.png',
       },
       {
         name: 'Institute of Data Science, NUS',
         description: 'Undergraduate Researcher, Aug 2021 - Feb 2022',
         link: 'https://ids.nus.edu.sg/',
+        img:
+          'https://media.licdn.com/dms/image/C510BAQE9T84QQtao_g/company-logo_200_200/0/1552962369564?e=1682553600&v=beta&t=XrOgdCWhA0tfwT3q2c3xgadaLNYa7Hlnl-5HZn5qBl8',
       },
       {
         name: 'DSO National Laboratories',
         description: 'Machine Learning Engineer, May 2021 - Aug 2021',
         link: 'https://www.dso.org.sg/',
+        img:
+          'https://media.licdn.com/dms/image/C560BAQG_heWRrD9TSw/company-logo_200_200/0/1673234993826?e=1682553600&v=beta&t=rImavUZ5LEJasTJ0b08r6Cb6JgZMYpAInrpMSDFV_wA',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -83,7 +98,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, C/C++, R, Java, Javascript/Typescript, HTML/CSS, SQL, Rust',
+          'Python • C/C++ • R • Java • Javascript/Typescript • HTML/CSS • SQL • Rust',
       },
       {
         name: 'Engineering Frameworks/Tools/Libraries',
@@ -104,11 +119,15 @@ module.exports = {
           'B.Comp. Computer Science (CAP: 4.82/5.00) & B.A. Economics (CAP: 4.89/5.00), 2019 - 2024',
         link:
           'https://drive.google.com/file/d/1lphCHCcE8nNz7W-wSfs_7ym0XaJOhwWw/view?usp=share_link',
+        img:
+          'https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-vertical.jpg',
       },
       {
         name: 'ETH Zurich',
         description: 'B.Comp. Computer Science (Grade: 6.0/6.0) 2023 - 2023',
         link: '',
+        img:
+          'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1495463136/pn8oq8zmmspjtjvpcbiv.png',
       },
     ],
   },

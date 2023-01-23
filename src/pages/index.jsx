@@ -64,6 +64,7 @@ export const pageQuery = graphql`
           name
           description
           link
+          img
         }
         skills {
           name
@@ -73,6 +74,7 @@ export const pageQuery = graphql`
           name
           description
           link
+          img
         }
       }
     }
