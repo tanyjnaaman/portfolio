@@ -1,6 +1,6 @@
 ---
 title: Reflecting on leaving mechanical engineering, two years later
-date: '2023-01-22T12:00:00.00Z'
+date: '2023-01-05T12:00:00.00Z'
 description: "If you too are thinking about this, maybe let's have a chat!"
 ---
 

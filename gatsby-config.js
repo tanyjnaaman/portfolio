@@ -21,7 +21,7 @@ module.exports = {
     // Content of the About Me section
     about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
       I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, distributed systems etc., and I think it's pretty neat.
-      Beyond computer science, I spend my time reading books, playing badminton and watching movies.`,
+      Outside of work, I spend my time reading books, playing badminton and watching movies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -58,7 +58,7 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` and `img` are optional.
     experience: [
       {
-        name: 'Apple inc.',
+        name: 'Apple Inc.',
         description: 'Machine Learning Engineer Intern, Sept 2023 - Dec 2023',
         link: 'https://searchads.apple.com/',
         img:
@@ -87,7 +87,7 @@ module.exports = {
       },
       {
         name: 'DSO National Laboratories',
-        description: 'Machine Learning Engineer, May 2021 - Aug 2021',
+        description: 'Machine Learning Engineer Intern, May 2021 - Aug 2021',
         link: 'https://www.dso.org.sg/',
         img:
           'https://media.licdn.com/dms/image/C560BAQG_heWRrD9TSw/company-logo_200_200/0/1673234993826?e=1682553600&v=beta&t=rImavUZ5LEJasTJ0b08r6Cb6JgZMYpAInrpMSDFV_wA',
@@ -116,7 +116,7 @@ module.exports = {
       {
         name: 'National University of Singapore',
         description:
-          'B.Comp. Computer Science (CAP: 4.82/5.00) & B.A. Economics (CAP: 4.89/5.00), 2019 - 2024',
+          'B.Comp. Computer Science (CAP: 4.81/5.00) & B.A. Economics (CAP: 4.88/5.00), 2019 - 2024',
         link:
           'https://drive.google.com/file/d/1lphCHCcE8nNz7W-wSfs_7ym0XaJOhwWw/view?usp=share_link',
         img:

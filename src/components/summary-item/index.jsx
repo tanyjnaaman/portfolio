@@ -6,7 +6,8 @@ const classes = {
   wrapper: 'mb-6',
   name: 'font-semibold text-gray-900 pb-1',
   description: 'text-md text-gray-600 font-light',
-  img: "w-12 rounded-full mr-4 padding: p-1"
+  imgWrapper: "w-max items-center overflow-hidden",
+  img: "w-0 md:w-10 rounded-full md:my-1 md:mr-3 md:p-1 md:self-center "
 };
 
 const SummaryItem = ({ name, description, link = false, img = false, internal = false }) => {
@@ -27,8 +28,7 @@ const SummaryItem = ({ name, description, link = false, img = false, internal = 
 
   return (
     <div className={classes.container}>
-      <div>{imageContent}</div>
-      
+      <div className={classes.imgWrapper}>{imageContent}</div>
       <div className={classes.wrapper}>
         
         <h3

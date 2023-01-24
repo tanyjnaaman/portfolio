@@ -20,7 +20,6 @@ const Index = ({ data }) => {
   const education = get(data, 'site.siteMetadata.education', false);
   const skills = get(data, 'site.siteMetadata.skills', false);
   const noBlog = !posts || !posts.length;
-  console.log(education.length)
   return (
     <Layout>
       <SEO />
