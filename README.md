@@ -1,6 +1,6 @@
 # Minimalist portfolio website
 
-In this repository, I build my own portfolio website.
+In this repository, I build my own portfolio website. See it live [here](https://tanyjnaaman.github.io/).
 
 ## Credit where credit is due
 
