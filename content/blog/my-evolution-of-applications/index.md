@@ -67,7 +67,7 @@ I got a total of 3 offers - World Quant, Hypotenuse AI and Affable AI, and took 
 **Some general learning points:**
 
 - **Being very selective about startups was a good idea**. I applied to quite a few - AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI were the 5 in the Summation Programme. In these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
-- **Generally got past resume screen for ML/DS related roles.**At those points, generally did well because algos would only be one part of it. A big part of ML/DS interviews are theory heavy, and those require a different type of preparation. Checkout [Chip Huyen's](https://huyenchip.com/ml-interviews-book/) and [Rishabh's](https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276) excellent resources for those. In contrast, barely got past resume screen for any SWE roles. Which made sense, given I had basically zero SWE dev experience and I think the barrier to entry for SWE roles are much lower, making competition much stiffer.
+- **Generally got past resume screen for ML/DS related roles.** At those points, generally did well because algos would only be one part of it. A big part of ML/DS interviews are theory heavy, and those require a different type of preparation. Checkout [Chip Huyen's](https://huyenchip.com/ml-interviews-book/) and [Rishabh's](https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276) excellent resources for those. In contrast, barely got past resume screen for any SWE roles. Which made sense, given I had basically zero SWE dev experience and I think the barrier to entry for SWE roles are much lower, making competition much stiffer.
 
 ## Year 4, Semester 1 (2022-2023)
 
@@ -87,7 +87,6 @@ That said, I've also gotten a _ton_ of rejections this year, and for many parts 
 - Make one for DS/ML roles, and one for SWE roles - their stacks and skillsets are different. For SWE, the focus was more on typical stuff - tech stacks, the product life cycle, etc. For DS, was mostly about the techniques for model development and applications.
 
 ![SWE Resume](resume_2023_SWE.png)
-![DS Resume](resume_2023_DS.png)
 
 **My approach to applications**:
 
@@ -181,7 +180,7 @@ Palantir and Apple fit my bills perfectly.
 - Palantir will be in London. I have never worked abroad before, and I find their product _incredibly interesting_. It was a no brainer to accept them, especially to do SWE work.
 - Apple would allow me to do ML engineering at a big organization - and I really wanted to do that, too. Apple being a FAANG company also helps to give me some credibility down the line.
 
-Now, you might think those were no brainers - in some sense, they were. But I just want to highlight that these two weren't the highest paying opportunities. I tell myself this, and I will tell all my friends, don't optimize for pay so early. I think I'm mostly inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this one by Shreya Shankar](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ early on in my career.
+Now, you might think those were no brainers - in some sense, they were. But I just want to highlight that these two weren't the highest paying opportunities. I tell myself this, and I will tell all my friends, don't optimize for pay so early. I think I'm mostly inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ early on in my career.
 
 ### What's next?
 

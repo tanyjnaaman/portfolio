@@ -1,12 +1,12 @@
 ---
 title: Reflecting on leaving mechanical engineering, two years later
-date: '2023-01-05T12:00:00.00Z'
-description: "If you too are thinking about this, maybe let's have a chat!"
+date: '2023-01-15T12:00:00.00Z'
+description: "In hindsight, one of the best choices I've made for myself."
 ---
 
 ## Two years ago
 
-Just over two years ago, it was the December of 2020. I got an email from the School of Computing, indicating that my
+Just over two years ago, it was the January of 2021. I got an email from the School of Computing, indicating that my
 application to transfer my course of study to Computer Science had been successful. I distinctly recall the moment -
 I was at the robotics lab with my team, working on the gimbal mechanism for the Standard Robot. It had been a pretty good day actually - development was going well and we had a good amount of momentum going. I also recall that it was the third round of ModReg - for the uninitiated, ModReg is the module registration system at NUS, and having 0 modules registered in the third round usually spells death - and it was the exact situation I was in, given that I had now been newly promoted to a Computer Science major.
 
@@ -18,7 +18,9 @@ That semester would begin what has been the very wild, often times wonderful, bu
 
 We have to go further back than two years ago for this. Back in 2019, I matriculated as a double degree student in mechanical engineering and economics. Why mechanical engineering? Well, it was sorta related to why economics as well. In much of my teens, I - and I suspect a good number of my peers at the time, too - was very idealistic and going through my own struggles with my health and in school. And this idealism manifested itself as a deep desire to do something somehow so great that it would outshine all of the things I had thought of as my failures and my points of shame. In particular, I had settled on the decision to enter the civil service, and so I thought covering my bases in mechanical engineering and economics would make me this special individual.
 
-It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship, and a lot of which was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I'd just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.
+But also, I didn't really know what I liked. I mean, I had this big dream and mission, but I was 18, sheltered for most of my life, barely going beyond the coddling of a classroom (perhaps H3 research counts, but not much more) to have a good sense of what I liked, what I didn't, and what I was _okay_ with doing. It gave me comfort to "follow the crowd" - except that my crowd was not my peers, but my role models - plenty of figures of authority in my life had been engineers, and I figured, "hey, why not", and counted on this misplaced idealism of mine to derive meaning from the work I'd be doing.
+
+It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship (the application process in itself is it's own story), for many reasons, a lot of which was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I'd just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.
 
 ## My three semesters of engineering
 
@@ -48,19 +50,21 @@ Thanks for that, Ms Ng.
 
 ## The last two years
 
-In the last two years, so much has happened, and I've grown so much. Changing my course of study was terrifying for a lot of reasons, so let me list them.
+In the last two years, so much has happened, and I've grown so much. Changing my course of study was terrifying for a lot of reasons, so let me reformat/rephrase my pros-and-cons list from my phone, dated November 2020.
 
 Pros:
 
 1. I **think** I like computer science. Well, I liked my machine learning course.
+2. I hate mechanical engineering. It's cool sometimes, but I'm not a hands-on-tools kinda guy. It exhausts me, because I was exhausted building my robot, but loved every bit of writing code for it.
 
 Cons:
 
-1. I might be mediocre and demoralized.
+1. I might be mediocre. I probably will be.
 2. I already feel like a black sheep in my family, and studying a science (when everyone else has studied business/accounting) will just add to that.
 3. I might have to graduate late, and NUS might rescind my scholarship (at least, in the contract, they "reserve the right to").
-4. I might not be able to take my double degree in economics. (I later managed to apply for this and got it!)
-5. All my modules I've already completed "go to waste".
+4. I might not be able to continue my second degree in economics. (I later managed to apply for this and got it!)
+5. All my modules I've already completed "go to waste". I start again from ground 0.
+6. I don't know. It just feels scary to be off the conventional path.
 
 I did it anyway though, and it has been one of, if not the best, decision I've made for myself. And I can't help but feel proud about how far I've come.
 
