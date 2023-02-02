@@ -72,6 +72,14 @@ module.exports = {
           'https://companieslogo.com/img/orig/PLTR-236711ab.png?t=1634119414&download=true',
       },
       {
+        name: 'Institute for Infocomm Research, A*STAR',
+        description: 'Research Intern, Nov 2022 - June 2023',
+        link:
+          'https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen',
+        img:
+          'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-6/241041162_211313401024963_8782400694105546701_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=S6vflHLkOYwAX9Q88pn&_nc_ht=scontent.fsin16-1.fna&oh=00_AfAmenDyXuTLxurtdrI0oYJkD2sEdkZUczA4SpXWAQ0hOw&oe=63E03CD1',
+      },
+      {
         name: 'Hypotenuse AI',
         description: 'Full-Stack Software Engineer Intern, May 2022 - Aug 2022',
         link: 'https://www.hypotenuse.ai/',

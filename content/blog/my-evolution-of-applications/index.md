@@ -140,7 +140,7 @@ Consider:
 
 - 2020: 2/28 offers (7.2%), 3/28 (10.7%) got past resume screen.
 - 2021: 3/68 offers (4.4%), 7/68 (10.3%) got past resume screen.
-- 2022: 5/112 offers (4.5%), 12/112 (10.7%) got past resume screen.
+- 2022: 5/112 offers (4.5%), 15/112 (13.9%) got past resume screen.
 
 Maybe this year is skewed since we're only in January and I'm stopping the count, but still, looking at these numbers and their stable proportions, I can't help but wonder if it truly is a numbers game. We're also in a strange time of hiring freezes this and last year, so perhaps that's also affected what I would have expected to be generally growing proportions of success.
 
