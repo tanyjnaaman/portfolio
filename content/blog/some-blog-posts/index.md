@@ -4,6 +4,13 @@ date: '2023-01-30T12:00:00.00Z'
 description: 'Just a collection of blog posts I enjoyed.'
 ---
 
+## Blogs I check out
+* [Yi Tay](https://www.yitay.net/)
+* [Shreya Shankar](https://www.shreya-shankar.com/)
+* [Rishahb Anand](https://rish-16.github.io/year-archive/)
+* [David Mueller](https://damueller.com/#/blog)
+* [Nato Lambert](https://www.natolambert.com/writing)
+
 ## Stuff in general
 
 - [Startups will ruin your life in the best way](https://reading.supply/@mathemakitten/startups-will-ruin-your-life-in-the-best-way-sW7aZt)
@@ -16,6 +23,7 @@ description: 'Just a collection of blog posts I enjoyed.'
 
 ## ML and research stuff
 
+- [On emergent abilities, scaling architectures and LLMs](https://www.yitay.net/blog/emergence-and-scaling)
 - [2022 in Review: Top language AI research papers + interesting papers to read](https://www.yitay.net/blog/2022-best-nlp-papers)
 - [Math behind GNNs](https://rish-16.github.io/posts/gnn-math/)
 - [Neural Network Loss Landscapes: What do we know?](https://damueller.com/#/blog-post/NNLLs)

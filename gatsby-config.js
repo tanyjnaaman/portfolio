@@ -20,7 +20,7 @@ module.exports = {
     resume: `https://drive.google.com/file/d/1Nn3kwaH1fpHfHhJzDk2OdnAj4D9M0Ziu/view?usp=share_link`,
     // Content of the About Me section
     about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
-      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, distributed systems etc., and I think it's pretty neat.
+      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, parallel & distributed systems, information theory, quantum computing etc., and I think it's pretty neat.
       Outside of work, I spend my time reading books, playing badminton and watching movies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [

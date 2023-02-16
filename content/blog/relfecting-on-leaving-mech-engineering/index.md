@@ -6,7 +6,7 @@ description: "In hindsight, one of the best choices I've made for myself."
 
 ## Two years ago
 
-Just over two years ago, it was the January of 2021. I got an email from the School of Computing, indicating that my
+Just about two years ago, it was the January of 2021. I got an email from the School of Computing, indicating that my
 application to transfer my course of study to Computer Science had been successful. I distinctly recall the moment -
 I was at the robotics lab with my team, working on the gimbal mechanism for the Standard Robot. It had been a pretty good day actually - development was going well and we had a good amount of momentum going. I also recall that it was the third round of ModReg - for the uninitiated, ModReg is the module registration system at NUS, and having 0 modules registered in the third round usually spells death - and it was the exact situation I was in, given that I had now been newly promoted to a Computer Science major.
 
