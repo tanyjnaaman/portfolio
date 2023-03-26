@@ -1,11 +1,11 @@
 ---
-title: My exchange begins
-date: '2023-02-15T12:00:00.00Z'
-description: "The first two weeks!"
+title: A log of my 7 months abroad
+date: '2023-03-05T12:00:00.00Z'
+description: "Some real-time thoughts as I live in Zurich on exchange (and then work in London in the summer)."
 ---
-
-## Pre flight
-
+<details closed>
+<summary><b>Pre flight (written 1 Feb)</b></summary>
+<br>
 In the last month, I've spent so much time trying to meet and spend time with people I care about. Friends, family, extended family. I've typically been incredibly introverted, so this has been quite an... interesting and refreshing experience. In fact, in the last three weeks, my daily routine has basically been lunch with someone, run some errands, dinner with someone, sleep, repeat. This month has also coincided with the Lunar New Year, so I've also visited family and gone to Malaysia to visit my family there. It's been so busy. 
 
 But it's been so good! So many of these friends I've not seen in a while - we're all busy, and myself, every since university has started, I can't say I've really had any lull periods other than this month. So it's been nice to spend time and catch up with many of these friends who I care for very deeply, and spend some time on myself recharging and reflecting. 
@@ -18,8 +18,11 @@ When I'm back, a lot of things will be different, I think. I'd have completed a 
 
 11 more hours till I'm on that plane.
 
-## First three days
+</details>
 
+<details closed>
+<summary><b>First three days (written 5 Feb)</b></summary>
+<br>
 So far, Zurich is: 
 - very cold
 - very friendly
@@ -36,9 +39,11 @@ Day 2: went to the city centre with some friends, spent a ton of time walking ar
 Day 3: chatted with new people over breakfast. Went to the city centre for a tour. Made friends with people on said tour, and spent basically the whole day with them. Went back, made dinner (very bad yakisoba attempt, it's so hard without the right ingredients ._.), had some nice conversations and made more new friends. 
 
 I'm so tired, but so far, so good. I hope I'll continue to make friends and do cool things. Tomorrow, is my first German class. Fingers crossed!
+</details>
 
-### The 14th day
-
+<details closed>
+<summary><b>The 14th day (written 16 Feb)</b></summary>
+<br>
 As I write this, I have been on Swiss soil for 14 days now. Life is going pretty well - I've settled in quite nicely I think. It's gone by _quick_ though. In the last week or so I've completed German 1 (it's 3 x 2 hours a day, every day) which fulfils the first half of A1 German, climbed my first hill (the Swiss call it a molehill, but to my Singaporean mind the hike was tall), cooked my first rack of lamb for valentine's day (my girlfriend was kind enough to visit me from London), watched my first movie abroad (Swiss tickets are 17 CHF, and they have intermissions!) and got very cold a lot of the time. 
 
 It's been very good, but very exhausting. Moving abroad and setting up a comfortable (if temporary) "home", doing 6 hours of high-intensity language learning daily and packing my schedule to spend time with my girlfriend while she's visiting is pretty tough. Switzerland is beautiful though, and people here are generally very welcoming. And thank god for the fact that most people speak English - I'd have such a tough time otherwise.     
@@ -46,3 +51,74 @@ It's been very good, but very exhausting. Moving abroad and setting up a comfort
 Today in particular, my girlfriend has headed back to London, and I'm alone here. In the coming week, it's a bunch of admin and welcome events, the start of lessons and presumably a bunch of socializing and a return to using my brain after a month-long break. I'm really looking forward to it.
 
 This year feels like it's shaping up to be a pretty good year, and I have a lot of things to look forward to. Fingers crossed next week is a good week, too. 
+</details>
+
+<details closed>
+<summary><b>First week of school  (written 25 Feb)</b></summary>
+<br>
+A very quick week of school has passed. The classes have been awesome. They're really hard, generally pretty rigorous and the profs are exceptionally good at explaining stuff. 
+
+Can't help start to feel lonely, though. Moving abroad isn't quite as rosey as it's painted back home, I suppose. The exchange coordinator in our briefing did mention that this tends to happen - you start off all excited because everything is new, at some point get tired and homesick, and then eventually adjust. I suppose I'm trending just like the average person - which gives me some comfort, because I know things will get better :-). 
+
+</details>
+
+
+<details closed>
+<summary><b>A month in and some reflections (written 8 March)</b></summary>
+<br>
+
+I entered the country on the 2nd of February. Today, it's a Wednesday, on the 8th of March. I've been meaning to find some time to sit and write, but the semester is starting to get busy. But I have a bit of time today - mostly because I'm sick and decided to take it easy (it's not easy getting better in a cold, dry country), so here I am. 
+
+1. My classes/research: generally, great!
+
+I'm reading four classes this semester: 
+* [263-5354-00L  Large Language Models](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=171001&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en)
+* [227-0558-00L  Principles of Distributed Computing](https://disco.ethz.ch/courses/podc/)
+* [252-0341-01L  Information Retrieval](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?semkez=2018S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=122559&lang=de)
+* [363-1000-00L  Financial Economics](https://www.vorlesungen.ethz.ch//lerneinheitPre.do?semkez=2018S&lerneinheitId=119949&lang=en)
+
+Why did I choose these four classes? Well, as a non-German speaking dude, my options at ETH are limited to Masters-level courses that are taught in English, so that limits my pool. I also came to ETH with the explicit goal of challenging myself and taking interesting, hard courses that deepen my knowledge of deep learning/ML engineering and its adjacent fields. The first three courses fit that bill very naturally. 
+
+Why financial economics, then? Well, I ask myself that too. I have absolutely zero interest. It's a practical matter - I'm four economics electives away from completing my second degree in economics. Clearing one abroad helps to reduce my course load when I go home. It is the only map-able economics module I can do here. So, here we are.
+
+But I love the courses generally, and I think I've got an interesting spectrum down. PODC and IR are taught similarly to higher-level bachelor's courses - the course is structured, well thought out and generally it's an information dump, if that makes sense. They teach me new things, I learn new things, I do practice, I take the exam. All fine and dandy. 
+
+LLMs... it's a new course. The lecturer is literally writing the textbook as the course progresses. So that can be a little jarring at times. Add that to the fact that tutorials are also being written as they go, there's... not much structure. And yet, the content is extremely refreshing, and it really does feel like it's on the cutting edge of research - to my knowledge, Ryan's work is one of the first to provide such a comprehensive formal description of language models. So that (in my opinion) makes up for its drawbacks. It's pretty hard and heavy though - it's like 90 pages of proof-heavy readings per week, which can sometimes be unpleasant. 
+
+Financial economics. Not a fan. But I'll get through it. I haven't attended a single lecture, lol. But I'm reasonably certain I can self study, because the lecture slides, textbook chapters and tutorials have been released, and I've been consistent with them. 
+
+I'm also working on a research project with I2R back home (remotely) and in person here with Dr. Ryan's lab. It's a bit busy, but the topics - multimodal engagement detection, and explainable evaluation for large language models - are exciting and tickle my brain. I'm excited to work on them! :-) 
+
+2. Living abroad, more generally: pros, cons, and I think I'm okay with it - just okay
+
+I'm not sure what it's like in other countries - and I suspect it's different because of the relative sizes of other countries - but in Singapore, being able to go abroad seems like a big thing. When someone says that they're going abroad to study or work, they are often met with "wows" and "congratulations". It's some sort of a medium-to-big deal. My peers have faced that, and I too have. A related phenomenon is a general desire to emigrate and leave - you can see it [here](https://hypeandstuff.com/why-i-chose-to-leave-singapore/), [here](https://www.quora.com/Why-do-people-want-to-leave-Singapore) and [here](https://www.reddit.com/r/singapore/comments/p1iz2d/exsingaporean_what_made_you_leave_singapore_i_can/), amongst the many other articles and forum posts about it within the Singapore context. And it's an interesting contrast to what immigrants often think about Singapore, which seems to bounce between the extremes of [authoritarian dystopia](https://www.quora.com/Is-Singapore-an-authoritarian-government) and [a great place](). It's a strange feeling, then, to be on this side of the discussion and experience what it's like to live abroad for a while. 
+
+So far, anyway, I think life is pretty good back home. Not to say that there aren't flaws, and not to say that the relative privilege of my upbringing has not influenced that, but life here is *different*, sometimes in good ways, and sometimes not so much. I love the weather here, how people generally have a greater respect for and focus on living a good life (even if, for example, the financial decisions they make make me squirm), and how people seem to have a wider perspective of the region. I think some of it comes from the rich history and varied geography of the region - Europe is so incredibly heterogeneous, and so much immigration and free movement, I suppose, is bound to create this. I like a lot of these things, and I think Singapore and Singaporeans can do better on a lot of them too.
+
+But there are too, things I like less. So far, they are mostly practical things - safety and social responsibility, the inconvenience that comes with good labour practices (e.g. everything closes on Sunday - everything) and larger spaces. The less practical things, I think they are subjective, and I have my own preferences - some fit better than others to my lifestyle and values. 
+
+I guess this is a bit of an unstructured ramble, but what I'm trying to express is this feeling of being out of place that I suppose all immigrants experience, and this feeling of being ungrounded as I learn about this new environment. And also this feeling of having new, fresh ideas that I think can and arguably should be done back home, as well as feelings of gratitude for how things are back home. I find myself - more often than expected - going "we do it better back home", and that gives me a tiny tingling of pride to be a Singaporean. Kinda like [this article](https://mothership.sg/2023/02/young-singaporeans-living-overseas/) loosely captures. 
+
+A lot of my friends will probably disagree with me - some of them have described their 6 months or 3 years or however long abroad as "the best time of their life" or how x city was the "best city they've ever lived in". But that's fine. My opinion will probably evolve as I get more settled - I have after all only spent about 5 weeks here. 
+
+I have unfortunately fallen sick this week, but I hope next week will be better :D.
+
+1. Travelling is expensive
+
+So far, I've been to Liechtenstein, Bern (Switzerland), and I'm heading to London this weekend to visit my girlfriend. We're also planning trips to Paris, Florence, Naples, and Rome. Maybe it's the penny pincher in me, but god, this hurts my wallet so much. 
+
+I've said this to a lot of people - to me, the "once in a lifetime" perspective to me is a little misconstrued - what's "once in a lifetime" is the opportunity to study at one of the world's top schools, to live abroad, to be independent. I can always come back to Europe. But I suppose it doesn't hurt to see the world a little, even as a tourist.
+
+Well, till the next time I have some time to reflect and log. But I think it's going to be a hectic 6 weeks ahead - lots of studying, lots of research, lots of travel. With a little bit of luck, the weather will be good, I will stay healthy and generally have a good time. 
+
+</details>
+
+
+
+<details open>
+<summary><b>Back from London, down with COVID (written 18 March) </b></summary>
+<br>
+
+So much for hoping for the weeks ahead for good health. Life can be funny. Anyway, I'm down with COVID. So, that constrains me to my room, mostly. That's good for the introvert in me. 
+
+</details>

@@ -20,7 +20,7 @@ module.exports = {
     resume: `https://drive.google.com/file/d/1Nn3kwaH1fpHfHhJzDk2OdnAj4D9M0Ziu/view?usp=share_link`,
     // Content of the About Me section
     about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
-      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database systems, parallel & distributed systems, information theory, quantum computing etc., and I think it's pretty neat.
+      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database/retrieval systems, parallel & distributed systems etc., and I think it's pretty neat.
       Outside of work, I spend my time reading books, playing badminton and watching movies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -31,20 +31,18 @@ module.exports = {
       },
       {
         name: 'Oxford Map The System 2021',
-        description: `Map The System is a global competition that challenges teams to use a system's thinking approach to analyse socio-economic problems and propose solutions. I led an interdiscplinary team of 5 to investigate how meritocracy in Singapore worsens inequality. We won the national finals in May and placed 2nd in the global finals.`,
+        description: `Led an interdiscplinary team of 5 to investigate how meritocracy in Singapore worsens inequality with a systems thinking approach. Won the national finals in May and placed 2nd in the global finals.`,
         link:
-          'https://drive.google.com/drive/folders/1vPOx7h8YzcEcZcnynFKkvEsO0SHZP-pk?usp=sharing',
+          'https://mapthesystem.sbs.ox.ac.uk/article/how-does-singapores-meritocratic-educational-system-unintentionally-exacerbate-social-inequa',
       },
       {
         name: 'DJI RoboMaster Robotics Competition 2021',
-        description: `Led a team of 5 in developing 3 Standard Robots. Spearheaded design and implementation of object detection algorithms and mechanical launcher, gimbal and mobility systems.
-          Team placed 4th globally (1st in SEA) for RoboMasters University Championship Online Competition. `,
+        description: `Led a team of 5 in developing 3 Standard Robots. Team placed 4th globally (1st in SEA) for RoboMasters University Championship Online Competition. `,
         link: 'https://nusrobomaster.com/team',
       },
       {
         name: 'Asian Development Bank #DigitalAgainstCovid19 Hackathon 2020',
-        description: `Led a team of four in prototyping a integrated waste management solution based on p2p services and a waste-classification machine learning model. Drew a wireframe in Figma and implemented a simple image classification model based on MobileNet.
-          Our team was a Top 10 finalist among 140+ international teams. `,
+        description: `Led a team of four in prototyping a integrated waste management solution based on p2p matching and machine learning. Drew a wireframe in Figma and implemented an waste image classification model based on MobileNet. Our team was a Top 10 finalist among 140+ international teams. `,
         link:
           'https://drive.google.com/drive/folders/13EfbuLAxfF5ne-zDGhMn082mtWPils4G?usp=share_link',
       },
@@ -77,7 +75,7 @@ module.exports = {
         link:
           'https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen',
         img:
-          'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-6/241041162_211313401024963_8782400694105546701_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=S6vflHLkOYwAX9Q88pn&_nc_ht=scontent.fsin16-1.fna&oh=00_AfAmenDyXuTLxurtdrI0oYJkD2sEdkZUczA4SpXWAQ0hOw&oe=63E03CD1',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKUaM3ch_DZ3n4GBi1M1gvD8g-8oaajbC9iJpTk__Shg&s',
       },
       {
         name: 'Hypotenuse AI',
@@ -116,7 +114,7 @@ module.exports = {
       {
         name: 'Machine Learning Frameworks/Tools/Libraries',
         description:
-          'PyTorch • Tensorflow/Keras • Flax/Jax • Scikit-Learn • CUDA • WandB • DagsHub',
+          'PyTorch/Pytorch-Geometric • Tensorflow/Keras • Flax/Jax • Scikit-Learn • CUDA • WandB • DagsHub',
       },
     ],
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
@@ -131,8 +129,8 @@ module.exports = {
           'https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-vertical.jpg',
       },
       {
-        name: 'ETH Zurich',
-        description: 'B.Comp. Computer Science (Grade: 6.0/6.0) 2023 - 2023',
+        name: 'ETH Zurich (Exchange)',
+        description: 'B.Comp. Computer Science, 2023 - 2023',
         link: '',
         img:
           'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1495463136/pn8oq8zmmspjtjvpcbiv.png',

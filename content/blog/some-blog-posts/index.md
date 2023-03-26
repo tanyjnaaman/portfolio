@@ -10,6 +10,7 @@ description: 'Just a collection of blog posts I enjoyed.'
 * [Rishahb Anand](https://rish-16.github.io/year-archive/)
 * [David Mueller](https://damueller.com/#/blog)
 * [Nato Lambert](https://www.natolambert.com/writing)
+* [Sandar Dieleman](https://sander.ai/posts/)
 
 ## Stuff in general
 

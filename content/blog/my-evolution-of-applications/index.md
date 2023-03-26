@@ -1,187 +1,205 @@
 ---
-title: My evolution of applications (and resumes)
+title: An N=1 sample of one's journey through tech
 date: '2023-01-12T12:00:00.00Z'
-description: "Kenneth did one, and I figured I'd do one too. "
+description: "Just some perspective."
 ---
 
-I came into Computer Science in the middle of year 2 - I had changed my course from mechanical engineering, mostly because I realized I really liked machine learning. But finding jobs haven't been easy, and I figured I'd share some of the wonderful resources I've compiled and little lessons I, too, have learnt.
+### What inspired this? 
 
-Thanks to Kenneth's [great blog post](https://luyangkenneth.github.io/evolution-of-resumes/) I learnt how to write my first few resumes, but at the risk of creating slightly duplicated content, I think I want to focus more on the general application process, including my resumes, because I get the sense that resumes are but one part of what is often a very long application process.
+I think at least in the Singapore context, maybe because of an education-focused and competitive culture (among other reasons), achieving conventional notions of success can be a great stressor. I think that it often leaves us wondering if we're doing enough, doing well, and doing the right things, all questions of comparison - and I find this especially true for computing students. 
 
-For context: my CS journey started in Y2S2, after changing my course of study. My first internship was _very_ lucky, as I got it through sheer luck via TalentConnect - I interned as an ML engineer at DSO. My second was at a startup called Hypotenuse AI. My third and fourth, both offered at the same time, were at Palantir and Apple respectively.
+I think it's not hard to find plenty of good resources on building your career in tech - Kenneth's [very famous blog post](https://luyangkenneth.github.io/evolution-of-resumes/), for example, is one of the most popular ones. But I've found it harder to find blogs that shared their struggles and gave me a sense of whether my expectations and perceptions were distorted or realistic, because sometimes it feels almost as if every blog post was written by some secret genius wonderkid who's a main character in their character arc to success. 
 
-## Year 2, Semester 2 (2021)
+For a while now, my journey in university and tech has been a bit unconventional, and I'd just like to put it out there - just to provide my nothing-special-about-it perspective and maybe that helps to ground someone else's experiences. In some ways, [this post](https://haushofer.ne.su.se/Johannes_Haushofer_CV_of_Failures.pdf) is kinda what I'm going for - just some perspective.
 
-In my own records, I applied to a grand total of 28 different places, with a mix of mechanical engineer, data analytics, UI/UX and ML engineer roles. My background at this point was of a robotics engineer and 0 CS background - I had literally just changed my course of study and not taken a single course. I got 2 offers - a startup called Cognicept, and DSO.
+### A quick summary
 
-**What I tried to do with my resume:**
+The TL;DR of this blog post is really just me going through the challenges I faced in my job hunt, some things that I think worked, some that I think didn't. I'll go through it chronologically, so it's hopefully something of a helpful basis for comparison for someone in a similar stage of their development. Like Kenneth, I intend to share my resumes, and I think I'll also link to some helpful resources I found along the way, but the focus is really just documenting a journey in a bite-size way to hopefully help someone contextualize their own experiences. It's a N=1 sample of one's journey in tech.
 
-- Follow the general advice and resources compiled in Kenneth's blog post, linked above. Read that first!
-- In particular: focus on formatting for easy reading + automated resume screening, generally remove irrelevant work I did.
-  ![My resume](resume_2021.png)
+### Year 1, 1.5: I changed my major (2019-2020)
 
-**My general application strategy:**
+* I was lost because my major did not feel right in Y1 and Y2 - I hated it, and was kinda miserable
+* I spent most of my time doing a bunch of projects (e.g. competitions) hoping that one of them would stick and help me figure out what I liked
+* It was really hard
+* At the advice of some teachers I bit the bullet and changed my major
 
-- I had no real strategy - it was my first time applying, and at this point I had spent most of my time studying and/or doing random competitions and projects. I was also quite a recluse, and had no idea about the existence of resources like [Project Intern](https://t.me/projectintern).
-- I went on LinkedIn and google, searched for ML engineer intern (most of my experience was in robotics engineering, 0 software) and just applied.
+My journey in Computer Science has been unconventional, I think. I entered university studying mechanical engineering, and I really did not enjoy a lot of it. Hated it. But I kinda knew that something didn't feel right even before coming into university, so really, a lot of my first year to  year-and-a-half was spent on doing as many things as widely and broadly as possible - case competitions, engineering projects, book clubs, whatever. 
 
-**General mistakes I made:**
+Honestly, I had no idea what I was doing, it was really just exploring and praying that "things will work out eventually". As a result, I never even considered interning in the summer of year 1. Some of my friends did, but I was so far away from knowing what I wanted to do that I didn't even feel underqualified - I just felt lost. I was stressed all the time about it, and often times felt as if "maybe I can just roll with it". I never did, though, because it never sat right with me to study something I hated.
 
-- Wrote a unique resume and cover letter for every application. Cover letters don't matter, and there "tailoring" a resume by and large wastes time without much benefit. They take _way_ too long for virtually zero benefit.
-- Started applying only in February. Everything interesting was gone.
-- Did 0 leetcode. To be fair, I was basically an engineering student and had no idea.
+So, for those of you who're not sure about what you're studying, please, take my advice on this - figure it out, and figure it out early. It is more important than anything else you can do right now, because it gets a lot harder the further and deeper you go. If you're in year 1 and 2, or about to enter university, spend as much time as you can on opportunities *that give you more information.* 
+* Do things that are orthorganal to one another, do not repeat - that gives you the most information about what you like in the least time! They are a waste of time, and 2 competition wins do not look significantly nicer than 1. 
+* Spend a lot of time talking to people about what they're doing *and why they did it.*
+* If you're faced with a big choice (e.g. changing your major), get a young adult's perspective - they are close enough to our age, but far enough along in life that they can better weigh whether your anxieties are short sighted. A teacher of mine once reminded me that changing your career is 100x harder when you're 32 than when you're 22, and that was enough to convince me to change my major. 
 
-## Year 3, Semester 1 & 2 (2021-2022)
+Inspired by some robotics projects and nudging by trusted adults, I changed my major, and started studying CS in Y2S2. Things felt right, finally, but I was about to enter the ever-anxiety-inducing and infamous CS internship grind. 
 
-Having now gone from 0-1, I felt a little better. I was fortunate that my internship at DSO allowed me to learn quite a lot about machine learning workflows and research. But this time, my aim for this application cycle was on startups. The main reason was the belief that a (good) startup would grow me more as a budding engineer. In this application cycle, I made about 68 applications according to my records - but it's probably more, seeing as I stopped logging them after a while. I iterated through 2 resume versions.
+### Year 2: the internship grind begins (2021)
 
-I got a total of 3 offers - World Quant, Hypotenuse AI and Affable AI, and took the one at Hypotenuse AI. Their interviews were _by far_ the hardest - it was 3 hours of non-stop grilling. Convinced me that they knew what they were doing and there was high learning value in joining them.
+* CS wasn't easy, I felt dumb eternally, I kinda still do
+* Kenneth's [blog post on resumes]() got me started on resume writing, do check it out because it's pretty helpful
+* Googling, LinkedIn and glassdoor for e.g. "Machine Learning Engineer" is kinda enough to find things to apply for
+* I mass-applied for internships despite being desperately unqualified; I didn't even do leetcode (don't do this)
+* Started applying only in February (don't do this either, most interesting things are sadly, gone)
+* I passed 4/28 resume screens, got 2 offers despite failing some interviews spectacularly
+* Don't waste your time like I did writing cover letters, it literally makes no difference
 
-**What I tried to do with my resume:**
+Now, I think the "usual thing" to do is to have an internship in year 2 summer, year 3 summer, and then graduate into a job that you hopefully don't hate. I was now approaching the summer of year 2, so I had to get started. But boy oh boy was I lost. How do I write a resume? Where do I find jobs? How do I pass an interview? How do I organize my applications? Where do I start? I had these questions, and considering how many blogs write about them, I doubt I'm the only one to have thought these things. 
 
-- I made a website/linkedin and added links to them.
+My background at this point was of a robotics engineer and 0 CS background - I had literally just changed my course of study, after all. While applying, I was taking CS2030S (an OOP class), CS1231S (discrete structures) and CS2100 (computer organization) - I barely knew anything about computing. 
+
+But I eventually figured doing *something* even if sub-optimally was better than doing nothing, so I just got started. In my own records, I applied to a grand total of 28 different places, largely finding them through google, linkedIn, glassdoor, for a mix of mechanical engineer, data analytics, UI/UX and ML engineer roles. I also wasted a ton of time writing cover letters, mistakenly believing it made some sort of difference - they don't, at least, not really. Here's my resume at the time, for reference:
+
+![My resume](resume_2021.png)
+
+Overall, I believe only 4 got back to me, and I got 2 offers. One of the failed applications though, I remember really clearly, because they were really kind about me failing what is (now) a very easy programming problem. 
+
+![A very nice and appreciated bit of feedback](feedback.png)
+
+I am eternally grateful to have somehow gotten an offer from DSO to do machine learning research on radar imaging systems. I learnt a lot and honestly met some really awesome people, but I don't for a second think that I got it because I'm good - I was lucky, and I think about that very often because it grounds me.
+
+### Year 2 summer: my first internship at DSO and being largely lost
+
+* DSO wasn't particularly nurturing, and I was put in a position where I had not much relevant skills nor support 
+* I struggled, made a ton of mistakes, but delivered in the end
+* It sucked, but I'm grateful for being in the position to learn stuff - it could have been worse
+
+In short, working at DSO wasn't terrible, but also wasn't great. For one, I was brought in to do research on machine learning for *radar image processing* - I had 0 background in signal processing or the relevant physics. I spent most days self-studying the math behind signal processing, reading a ton of papers on computer vision models and techniques, and banging my head wondering why my simulation pipeline had a bug in it - because it could come from my lack of understanding the physics, the fact that I was using parallel computation for the pipeline (which, again I learnt by literally reading the CUDA handbook), or just a careless mistake. The frustrating bit was that it was often the former two cases, and I sadly did not have as much support or guidance as I would have liked. Building the models were similarly challenging. 
+
+But from a larger perspective, I think working in that kind of low-support environment really is just a trial-by-fire - it sucked and honestly beat a lot at my self confidence. And honestly, I made a lot of mistakes. But it also helps to know that I didn't freeze and sink - I tried my best to learn as fast as I can, and built some working models and a simulation pipeline that to my knowledge is still in use today. 
+
+At the end of my internship, I was exhausted - and I recently even found out from someone at DSO who spoke to my then-boss that I'm apparently not good at solving "open problems". I respectfully disagree, but I'm still grateful for having an internship at all at the time. They took a gamble on me, and I'm not sure either party was satisfied, but I learnt new things and had something to put on my resume, and for that alone I'm happy. Making the best of it, I guess.
+
+## Year 3: startup copium (2021-2022)
+
+* For some reason people tell you to apply as early as September, and god, that causes so much anxiety, but there's some truth to it
+* I knew I wasn't good enough for super competitive positions - and I made peace with it by focusing on high-quality startups
+* You can find a helpful set of startups with [SGInnovate's Summation program](https://stars.sginnovate.com/talentprogrammes)
+* You can study for ML interviews from useful sources like [Chip Huyen's](https://huyenchip.com/ml-interviews-book/) and [Rishabh's](https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276) blogs, and generally ask for good advice on [project intern](https://t.me/projectintern)
+* Managing applications & OAs with school is honestly not easy 
+* I tried to do too much, doing research, applying for internships and 6 mods - it was hell - and I wish I didn't do it that way
+* I buffed up my resume, did a ton of (but still, not enough) leetcode, and it helped 
+* I made a website out of insecurity, but I genuinely doubt it makes a difference
+* I got 3 offers, and chose the one that would give me the highest learning value
+
+I don't know about you guys, but everyone told me to apply "early", as in, in like September the year before kinda early. To me, it was (and still is) crazy talk - why would you apply basically a year ahead?? But everyone did so, and I did, too. In hindsight, you don't need to get started _that_ early or be very stressed about it, but yeah, getting started early helps.
+
+Except that I was still insecure, still really shit at programming, and honestly just didn't want to face another harsh round of rejections. Irrational feelings aside, though, I think it's fair for me feel like shit - I mean, in September, I was _taking_ CS2040S Data Structures and Algorithms, a super basic course in CS - and hadn't taken other stuff like CS2103 Software Engineering, CS2106 Operating Systems, etc. No matter how you slice it, I'm not particularly qualified.  
+
+But I made peace with it (low key was inspired by [this TED talk about imposter syndrome](https://www.ted.com/talks/mike_cannon_brookes_how_you_can_use_impostor_syndrome_to_your_benefit?language=en)) by just admitting to myself that indeed, I'm not good enough - but I want to be one day, and the best way to start is to learn. So I just aimed to optimize for learning aggressively, and kinda just avoided conversations when people talked about how they got an offer from Stripe or FAANG or HRT or whatever. I was on my own journey, and that was going to be it. Applying for a ton of startups, research, a ton of leetcode, and studying hard, I had decided, were going to be how I was going to learn. 
+
+I did a lot of (but honestly still not enough) leetcode - I'd practice maybe once a week. 
+
+I asked around in [project intern](https://t.me/projectintern) for advice, resources and stuff to prepare for interviews, and generally got good stuff like [Chip Huyen's](https://huyenchip.com/ml-interviews-book/) and [Rishabh's](https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276) excellent resources on ML interviews. Being part of that group in itself can be stressful though, so you kinda gotta manage it.
+
+I applied for a ton of startups. I was, however, very selective about them - I had heard all sorts of horror stories about them, so I was determined to pick one with strong founders (at least on paper) and that had green flags going for it (e.g. YC backed). I found [SGInnovate's Summation Program](https://stars.sginnovate.com/talentprogrammes) to be really helpful, and that ended up being how I got my offer and one of the best summer's I've had!
+
+I took 6 mods at school. Why? I... don't know. I just wanted to study as fast as I could. It was really hard and often times very emotionally challenging to manage. 
+
+I was also fortunate to get an opportunity to work with Dr. Wynne Hsu on some research for fake news reasoning and detection (more on this later, because entering research is a whole other space of imposter syndrome). 
+
+I also buffed up my resume at the advice of some friends. Specifically, I: 
+
+- I added links to my socials.
 - I added a quick summary. I doubt it would work, but also figured it wouldn't be a bad thing to do.
 - I added colour for quicker readability/highlight what I thought might be important.
 - I added more concrete descriptors (e.g. improve performance by 700x)
 - After asking some seniors who did hiring, added a small section on the tech stacks I'd worked with (or figured I could learn fast enough for an interview).
 - Removed my JC from my education, since I didn't need the "filler" anymore.
 - Added a project that was my website as a showcase that I could do _some_ frontend dev. I'm still shit at it.
+  
+Here's how it looked:
 
 ![My resume](resume_2022.png)
 
-**My general application strategy**:
+I also made a website out of some mistaken feeling that it would make me more appealing to recruiters. I doubt it did. But it was fun, I guess. 
 
-- I aimed for startups as I had a chip on my shoulder and feared rejection, which was likely from bigger companies.
-- I was, however, very _selective_ about my startups - they had to have founders/engineers of exceptional ability/track record (e.g. top school, advanced degrees, publications, big tech) and backing by known VCs (e.g. YC).
-- I found a good programme called [Summation](https://www.sginnovate.com/apprenticeship/talent), which is backed by the SG government.
+In this application cycle, I made about 68 applications according to my records - but it's probably more, seeing as I stopped logging them after a while. I iterated through 2 resume versions. I got a total of 3 offers - World Quant, Hypotenuse AI and Affable AI, and took the one at Hypotenuse AI. Their interviews were _by far_ the hardest - it was 3 hours of non-stop grilling. Convinced me that they knew what they were doing and there was high learning value in joining them.
 
-**Feedback I got from friends/interviews and mistakes I made:**
+And as the semester and application cycle (and therefore, my struggles) came to an end, I had some reflections that I think are worth sharing: 
 
-- Resume looked a bit haphazard. Colour was nice, but could be hard to read. Uneven spacing/line lengths made it hard to read. Too much content in general.
-- Did not do enough leetcode still, was struggling with hackerranks at medium. Honestly spent too much time chilling/studying for mods.
-- Did not apply widely enough. Focused almost entirely on "high success" applications as I was afraid of rejection (e.g. did not apply for FAANG, Indeed & similar tech firms, or banks/finance).
-- Online courses don't matter for CS kids.
-- Make sure links in resume aren't broken - one of my interviewers tried to see my stuff, but couldn't.
-- Make sure you can be _grilled_ for everything you have on the resume. One of my interviews did a _deep, deep_ dive, and I couldn't explain some of the work I did/some of the tech stacks (but generally did ok!).
+- **Being very selective about startups was a good idea:** I applied to quite a few - in the Summation Programme alone, I applied to AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI. In many of these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
+- **You don't need to apply that early for startups:** I applied for startups in September. All of them asked why when I said it was for summer. A good number of them asked me to reapply in February, lol. I did. 
+- **Don't half-ass many things, whole-ass one thing:** I struggled so, so hard this semester. 6 mods, research, job applications... not conducive to mental health, personal relationships or your physical health. You also don't do things as well as you can, because you're stretched so thin. In fact, failing to really push on my research is one of the greatest regrets I have till this day. I'm not sure I could have done more, and there's always the "what if", but god, I wish I slowed down a little and didn't spread myself so thin. You live and you learn, I guess. 
+- **Make sure you can talk about everything on your resume:** This means literally making sure the links aren't broken, but also that you have enough familiarity to explain design choices, tech stacks, whatever. I really struggled in one of my interviews because I really struggled to put across why my project was hard and why my design choices made sense (the interviewer was very patient though, and thankfully so).
+- **Leetcode once a week is not enough (for me)**: I did medium/hards once a week. Did not see much improvement, and often struggled at mediums. To be fair, was also doing CS2040S during the application cycle, so it's kinda hard to do leetcode without knowing the theory. 
 
-**Some general learning points:**
+I also rewarded myself with a trip to Bali at the end of this gruelling semester. I'm glad I did, because I felt refreshed and recharged and it made a world of difference. 
 
-- **Being very selective about startups was a good idea**. I applied to quite a few - AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI were the 5 in the Summation Programme. In these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
-- **Generally got past resume screen for ML/DS related roles.** At those points, generally did well because algos would only be one part of it. A big part of ML/DS interviews are theory heavy, and those require a different type of preparation. Checkout [Chip Huyen's](https://huyenchip.com/ml-interviews-book/) and [Rishabh's](https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276) excellent resources for those. In contrast, barely got past resume screen for any SWE roles. Which made sense, given I had basically zero SWE dev experience and I think the barrier to entry for SWE roles are much lower, making competition much stiffer.
+### Year 3 summer: long hours but lots of learning at Hypotenuse
 
-## Year 4, Semester 1 (2022-2023)
+* Mentorship was excellent, I was given a ton of responsibilities, and I always felt valued and cared for
+* I learnt so, so much, and built so many things - see [this](https://www.hypotenuse.ai/features/content-detective) and [this](https://www.hypotenuse.ai/ai-image-generator) :D
+* I was offered a full-time role, but very sadly turned it down to go on exchange
+* Probably the happiest 3 months I had in a long while, and I think I'd like to go back
+* Working hours were rough and I often felt out of my depth (so many things built from scratch), though
 
-Generally, I was quite happy with this application cycle, though it wasn't easy. I applied to a total of 112 companies according to my Notion, and according to my learnings from my previous cycles, literally applied for _everything_ that looked interesting to me. These included banks, FAANG, other tech firms, startups, anything and everything.
+High quality startups really are great places for learning. 
 
-The sheer number of interviews I did helped to keep me warm, as did the leetcode, but it also really told me about the types of companies I really didn't like. Just as much as an interview is about them evaluating you, you are also evaluating them. Moving forward, I'm pretty sure finance firms/banks ain't it for me. I really didn't like GS's or JPM's (and a few others) hiring styles. But startups and big tech are still pretty cool, except for some (ahem ByteDance).
+At Hypotenuse, my role was a mish-mash of full-stack and machine learning engineering responsibilities. I suppose as with most startups, I did a ton of stuff. But I think I was impressed by how well they had gotten the balance of structure and flexibility down - onboarding was excellent as were task allocations, I always felt valued and protected as an engineer with frequent one-on-one chats, I never felt like I couldn't ask questions or that I couldn't pitch difficult but workable solutions - it was all round just such a great and nurturing place to be. 
 
-I got a total of 5 offers - Apple, Palantir, Worldquant, Munich Re, AMD. I've accepted Palantir and Apple.
+Granted, the hours were long - I averaged 9-10 most days, and we often joked that we saw each other more than our families. But it never once felt begrudging. I always felt like I was moving - I was learning a lot and very quickly, and it always felt like the team was moving. Pushing out new features, seeing our growth stats, pushing x, y and everything. It was addictive, and somehow it felt like I really thrived in that kind of dynamic and low-key chaotic environment. The people made it great too, because my fellow interns were funny and super-solid people, and the full-timers too. We still all keep in touch, in fact. 
 
-Something I noticed was that for some reason somehow this year's replies/rejections/advancement to next round seemed super slow. As I write this in January, I've gotten about 5 emails telling me I've passed the resume screen - despite applying in October or so.
+That doesn't mean it was all flowers and rainbows, though - deadlines could be stressful, I often felt stuck and out of my depth (everything you build is basically built from scratch or working with code that was written quickly), and on occasion I would see my friends at FAANG or Indeed having a company-sponsored lunch with their standing desks and cushy in-town office wondering if that would have been nicer - comparison is the thief of joy, right? But these feelings were often fleeting and relatively insignificant in the bigger picture of what working here meant to me. 
 
-That said, I've also gotten a _ton_ of rejections this year, and for many parts in this cycle I was pretty demoralized. I stopped counting when the rejections hit 40 or so, lol.
+All this to say, joining Hypotenuse has been one of the most fortunate decisions I've made, and if you, too, are considering joining a startup, maybe take a leap of faith if all the requisite green flags are there: 
+* Founders with good track record (e.g. at Hypotenuse, they all had relevant experience)
+* A product you genuinely think has value
+* The interview process is smooth and you get the sense they know what they're doing during it (remember, you're interviewing them, too!)
 
-**What I tried to do with my resume:**
+It will be hard, but it might just be worth it.
 
-- Make my resume more concise.
-- Make one for DS/ML roles, and one for SWE roles - their stacks and skillsets are different. For SWE, the focus was more on typical stuff - tech stacks, the product life cycle, etc. For DS, was mostly about the techniques for model development and applications.
+## Year 4: surprising successes
 
-![SWE Resume](resume_2023_SWE.png)
+* I applied a lot more bravely this time - everywhere, and anywhere
+* I did a lot more leetcode and in a structured way, really thinking about how to solve things rather than doing it blindly
+* I also studied SWE stuff, like [this](https://designgurus.org/course/grokking-the-system-design-interview)
+* It sucked because I did this and applications alongside the infamous CS3203 Software Engineering Project and 2 TA roles 
+* I got some early rejections that really deflated me (e.g. Stripe, GovTech)
+* I realized I really don't like quant roles (e.g. at GS)
+* This hiring cycle felt hard because many firms didn't (e.g. Indeed) and a lot of them got back to me months later
 
-**My approach to applications**:
+I came off the summer on some sort of a high - I felt like I'd grown a lot as an engineer, and felt ready to make a bigger step to Big Tech or working abroad. Even if I wasn't going to be there long term, I wanted to experience it. I had to make a tough choice to turn down a full-time offer at Hypotenuse, but I did, and back to school and the application grind. 
 
-- Grind leetcode hard. Previously, I did leetcode only to warm up for interviews. This time, for the first 6 weeks of semester 1, I did 2-3 medium/hards a day. After, I would do 2-3 medium/hards every 2-3 days. Every time it would be timed, and every time I would do it as if I was in an interview. It was exhausting.
-- Record my leetcode progress. I kept my leetcode solutions on Notion, tracking how I solved them, the topic, their difficulty, and how much time I took to solve them. This helped to create a bank of solutions and also let me visualize how I was progressing.
+I was still stressed and insecure, but in a way that was different from the previous cycle. This time, I: 
+* Did a lot more leetcode - we're looking at 2-3 medium/hards a day. I found things like [NeetCode](https://neetcode.io/) and logging my own progress/tips and tricks on a Notion page really helpful
 
 ![My leetcode repository](leetcodebank_2023.png)
 
-- Prepare a "summary" of myself on Notion explaining my resume Things like how I chose each experience and the key experiences for each. It would help _a lot_ for resume deep dives and HireVues when they were over zoom.
+* Applied widely and really dared to think bigger this time - FAANG (well, those that were open for applications), quant shops and US-based startups
+* Found that SWE roles require a different set of prep compared to ML roles, and studied for them
+* I also buffed up my resume a bit
 
-![Interview prep](summary_2023.png)
+![SWE Resume](resume_2023_SWE.png)
 
-- Cast the net wide. I applied to anything and everything, figuring that in a looming recession, it was a numbers game.
+Generally, I was quite happy with this application cycle. I applied to a total of 112 companies according to my Notion. The sheer number of interviews I did helped to keep me warm, as did the leetcode, but it also really told me about the types of companies I really didn't like. Just as much as an interview is about them evaluating you, you are also evaluating them. Moving forward, I'm pretty sure finance firms/banks ain't it for me. I really didn't like GS's or JPM's (and a few others) hiring styles. But startups and big tech are still pretty cool, except for some (ahem ByteDance). Also, something I noticed was that for some reason somehow this year's replies/rejections/advancement to next round seemed super slow. As I write this in January, I've gotten about 5 emails telling me I've passed the resume screen - despite applying in October or so.
 
-**What went well:**
+I also got a _ton_ of rejections this year, and for many parts in this cycle I was pretty demoralized. I stopped counting when the rejections hit 40 or so, lol. The good 'ol "Thank you for your application" in the email subject stirs something in me to this day, lol. I think I found being rejected by Stripe and GovTech to be particularly disappointing, and they really shook my confidence in myself. 
 
-- Leetcode grind made a huge difference. I was generally 100%-ing most hackkeranks - except for Bytedance and Google's OA.
-- Summary of myself made my life much easier for interview prep.
+I was fortunate to receive a total of 5 offers - Apple, Palantir, Worldquant, Munich Re, AMD. I've accepted Palantir and Apple.
 
-**What I could have done better/feedback I got:**
+Gratefulness aside, reflecting on the things I did, I think here are some thoughts I think are worth sharing?
 
-- Resume is still quite cluttered and hard to read. At least 2 interviewers appeared to be reading my resume for the first time during the interview and seemed to struggle to digest all the information.
-- Was told by a friend doing hiring that summaries don't usually matter to HR or the hiring manager, and instead they look for experiences/familiarity with a certain tech stack they are looking for/general evidence for the character/skills they are looking for.
-- Prepared better for theory questions (e.g. explain how the DOM works, how React works, what is RESTful APIs, etc.)
-- Apply for the one you _really_ want only when you're sorta warmed up - Stripe was my first interview, and I flunked it.
+**I am not that good at algo questions, but god, `leetcode` really helps. Who knew?** I flunked the Google OA and Bytedance's one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.
 
-## What my resume looks like now
+**Cast the net wide, it's a numbers game?** Looking back on my past few years, I notice that the rates of passing the resume screen and offer rates are roughly consistent. 
 
-I've since revamped my format a little. In particular:
-
-- Removed the summary.
-- Separated skills and projects into separate sections, as hiring managers seem to like to look at tech stacks and langauges and then test you specific parts of those stacks/languages. This might make it easier for them to read.
-- Generally prettified it with a more readable font.
-- Removed custom formatting that I forced via drag-and-drop - that might have been screwing with automated resume screening tools.
-
-![My resume now](resume_2023_latest.png)
-
-## Some personal thoughts
-
-#### 1. I am not that good at algo questions, but god, `leetcode` really helps
-
-I flunked the Google OA and Bytedance's one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.
-
-#### 2. Prepping for content is helpful
-
-Bytedance grilled me with theory questions I was not prepared for. I will prepare for this going forward. I took CS3219 this semester, though, and it was very helpful to have that bank of knowledge in addition to my own experiences when facing tricky real-world-like interview questions, especially in system design ([this](https://designgurus.org/course/grokking-the-system-design-interview) is a pretty good course).
-
-#### 3. Cast the net wide, it's a numbers game.
-
-Consider:
-
-- 2020: 2/28 offers (7.2%), 3/28 (10.7%) got past resume screen.
+- 2020: 2/28 offers (7.2%), 34/28 (14.3%) got past resume screen.
 - 2021: 3/68 offers (4.4%), 7/68 (10.3%) got past resume screen.
 - 2022: 5/112 offers (4.5%), 15/112 (13.9%) got past resume screen.
 
 Maybe this year is skewed since we're only in January and I'm stopping the count, but still, looking at these numbers and their stable proportions, I can't help but wonder if it truly is a numbers game. We're also in a strange time of hiring freezes this and last year, so perhaps that's also affected what I would have expected to be generally growing proportions of success.
 
-In either case, I will take these insights to cast my net wide and far - apply more, and you'll probably get more chances.
+Somehow, I guess, this makes me feel better about all those rejections. 
 
-#### 4. Have a good selection criteria and longer-term focus in mind, especially if you don't know what you want
+**I still don't know what I'm doing, and I'm just trying to focus on being a better engineer.** I think I've come a long way since the start, and I think I have a clearer sense of what I want to do with my life after graduation (inside and outside of work), but I wouldn't say I know it with conviction. I just have a sense of it. I kinda doubt I'll ever not have doubts in my choices or feel supremely confident about everything - I don't think I'd want to either, because I'd probably be an insufferable asshole - so I think I'll go back to what I've been focusing on: learning and being a better engineer. It gives me a sense of groundedness and contentment - I mean, maybe I'll be a shit engineer, and maybe I won't go far, but I can tell myself I tried my best, and I think that's good enough. I think I'm in part inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ because it just makes sense to me.
 
-Even now, I'm not sure what I want to do longer term. I'm in year 4, and the decision to take my FYP and/or go to grad school. is just around the corner (I'm in a 5 year programme).
+**Man, comparison really is the thief of joy.** One thing that I think occasionally comes up and I'd like to share my views on - is the stress of comparison. It's inevitable - I'm working my ass off doing leetcode, applying for 102847184 positions and doing their online assessments, and failing, but my friends (seemingly) easily get an offer from FAANG or Stripe or Indeed despite applying late. I know those are exaggerations, but it really got to me at times. I have no solution or panacea, other than to say "it be like that", and to have faith in yourself, grit your teeth, and find some solace in the fact that you're trying your best. The good 'ol "trust the process" and "try to be content", I guess. What I'm really trying to say is, it really just is what it is, and there's nothing you can do about how you feel about comparisons, so be kinder to yourself, and let the comparisons tell you what's out there, what's next, rather than "what you've failed to achieve". It's helped me cope, so maybe it'll help you, too. 
 
-I've always had these decisions in mind, even as far back as year 2, but generally thought "I'll figure it out when I get there". The other thought I had to complete that phrase is "I'll figure it out when I get there, but _for now, I will keep my options open_."
+### TL;DR
 
-Over the past two cycles, I have made the very conscious effort to search for and choose opportunies that offer me the most _learning value_, but not just in the technical sense, but also in the sense of learning about myself - what I like, what I don't like, what I'm generally okay with. Let my illustrate the considerations at every juncture to show you what I mean.
+I hope I achieved what I set out to do - provide an N=1 sample of how it feels like to go through the tech application cycle (and also, I guess, grow up?). I hoped you at least found it entertaining. Well, if nothing at all, it was like therapy for me, so that's good, I guess. 
 
-**In my first application cycle:** I was offered Cognicept (full-stack SWE) and DSO (ML engineer). DSO made more sense for a lot of reasons:
+I'm grateful for everyone who's helped me along the way, and I'd like to say for anyone of you guys out there - keep going! 
 
-- High learning value: Strong culture of research, plenty of highly educated and really good engineers, interns typically given hard projects.
-- Builds my fundamentals: More focused on ML research, which is the fundamentals of ML (you can't be a great ML engineer without at least _some_ research experience, in my opinion).
-- Practicality: Nearer to home (lol)
-- Fit into budding narrative of myself at the time.
-
-**In my second application cycle:** I was offered WorldQuant (Quant Researcher), Hypotenuse AI (ML engineer/full-stack SWE), Affable AI (ML engineer). Hypotenuse AI made the most sense, because:
-
-- WorldQuant is a quant shop - a quant researcher's key output is techniques and math, and they are closer to a data scientist than ML engineer, and I would not be able to pick up good engineering practices/knowledge of how _deployment_ of ML models works. The latter was something I wanted to learn, having done research in a "sandboxed" environment, as most research is typically first done in. Also, finance... didn't gel well with what I wanted to do longer term. Took a pay cut to give this up.
-- Affable AI vs. Hypotenuse AI - both were startups.
-- But Hypotenuse impressed me for a few reasons - their interviews were **so hard**, but **really focused on testing me on whether I understood the fundamentals**, before going into higher order assessments. They also did a _very, very deep_ resume deep dive, and I felt like they were really trying to evaluate me hollistically. Their founder, Josh, was also honest with me about what he expected out of me in terms of working hours and working styles going in, and I appreciated it. The staff also seemed strong - ex-Stripe, ex-Amazon, Stanford/Cambridge grads, etc.
-- Affable AI was a bit older, and generally seemed to be further along their growth path. But the interviews and take home assignments didn't feel as rigorous as what I thought they should have been. Also, office was further away from me.
-- Being able to do ML engineering work in production, _and_ full-stack work _despite having zero experience_ gave me a huge learning opportunity. Granted, it was throwing me into the deep end, but I was really hungry to learn - if I survived, I would have had some experience in ML research, ML engineering and full-stack dev, which would not only help me determine what I liked, but also understand a bit better the entire spectrum of the ML value chain - from the lab, to production, to the user-facing side of things.
-
-**In my third application cycle:** I was offered AMD (Data science), Palantir (SWE), Apple (ML engineer or SWE), WorldQuant (SWE), Munich Re (ML Engineer). Now, this one is more complicated.
-
-You might notice that 4/5 of these are at "bigger", or at least, "big-ish" companies. In part, I made this choice because bigger companies are not only "flashy" resume wise, but I'd never been in a truly large organization. Large organizations function differently from smaller ones - they typically have more tooling and layers of abstraction, things may move more quickly in parts and slower in others, and I had not experienced any of it. I wanted to experience it - the challenges that come with _scale_.
-
-I also had some flexibility in choosing - I could choose up to two offers, if I had appropriately arranged my year. Now, I'm going to ETH Zurich the coming semester, and school ends in June. If I intern for 3 months, it cuts into my semester - so choosing to LOA for an internship immediately after that also isn't a bad idea, if the right chance comes along.
-
-Palantir and Apple fit my bills perfectly.
-
-- Palantir will be in London. I have never worked abroad before, and I find their product _incredibly interesting_. It was a no brainer to accept them, especially to do SWE work.
-- Apple would allow me to do ML engineering at a big organization - and I really wanted to do that, too. Apple being a FAANG company also helps to give me some credibility down the line.
-
-Now, you might think those were no brainers - in some sense, they were. But I just want to highlight that these two weren't the highest paying opportunities. I tell myself this, and I will tell all my friends, don't optimize for pay so early. I think I'm mostly inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ early on in my career.
-
-### What's next?
-
-I don't know. I'll update this when I'm back. It's going to be an interesting 2023 for me, I think.
+Maybe I'll look back on this one day with a palm on my face and in embarrassment. Anyway, for now, I'm headed to Zurich for exchange, and after that I'll fortunately be interning at Palantir in London. Exciting times! Imposter syndrome is sure to get me, but hey, let's hope I float.
