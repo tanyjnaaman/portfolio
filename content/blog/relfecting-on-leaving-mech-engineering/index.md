@@ -50,21 +50,7 @@ Thanks for that, Ms Ng.
 
 ## The last two years
 
-In the last two years, so much has happened, and I've grown so much. Changing my course of study was terrifying for a lot of reasons, so let me reformat/rephrase my pros-and-cons list from my phone, dated November 2020.
-
-Pros:
-
-1. I **think** I like computer science. Well, I liked my machine learning course.
-2. I hate mechanical engineering. It's cool sometimes, but I'm not a hands-on-tools kinda guy. It exhausts me, because I was exhausted building my robot, but loved every bit of writing code for it.
-
-Cons:
-
-1. I might be mediocre. I probably will be.
-2. I already feel like a black sheep in my family, and studying a science (when everyone else has studied business/accounting) will just add to that.
-3. I might have to graduate late, and NUS might rescind my scholarship (at least, in the contract, they "reserve the right to").
-4. I might not be able to continue my second degree in economics. (I later managed to apply for this and got it!)
-5. All my modules I've already completed "go to waste". I start again from ground 0.
-6. I don't know. It just feels scary to be off the conventional path.
+In the last two years, so much has happened, and I've grown so much. Changing my course of study was terrifying for a lot of reasons.
 
 I did it anyway though, and it has been one of, if not the best, decision I've made for myself. And I can't help but feel proud about how far I've come.
 

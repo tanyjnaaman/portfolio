@@ -1,6 +1,6 @@
 ---
 title: A log of my 7 months abroad
-date: '2023-03-05T12:00:00.00Z'
+date: '2023-04-14T12:00:00.00Z'
 description: "Some real-time thoughts as I live in Zurich on exchange (and then work in London in the summer)."
 ---
 <details closed>
@@ -115,10 +115,21 @@ Well, till the next time I have some time to reflect and log. But I think it's g
 
 
 
-<details open>
+<details closed>
 <summary><b>Back from London, down with COVID (written 18 March) </b></summary>
 <br>
 
 So much for hoping for the weeks ahead for good health. Life can be funny. Anyway, I'm down with COVID. So, that constrains me to my room, mostly. That's good for the introvert in me. 
 
+</details>
+
+<details open>
+<summary><b>Tore my MCL, went to Italy over Easter anyway... (written 14 March) </b></summary>
+<br>
+
+It's been a very hectic two weeks. In the last month or so I've intimately experienced the Swiss healthcare system (honestly, it's pretty good) because I tore my MCL playing badminton. But, my tickets to Italy over Easter were bought and non-refundable, so after several hospital visits and frantic replanning, we went to Rome and Florence. 
+
+It was a very solid (if exhausting) trip. Tomorrow, I head back to Singapore because I need to apply for my visa (for London) from Singapore - it's a little bit annoying. But it'll be nice to be home for a bit I think. I'm starting to get a little homesick, so this comes at a nice time.
+
+Wish me luck, because I need to be studying *hard* while dealing with my leg and jet lag. I'm very behind on my work.
 </details>

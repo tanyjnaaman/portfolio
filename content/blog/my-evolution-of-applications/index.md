@@ -1,10 +1,10 @@
 ---
-title: An N=1 sample of one's journey through tech
+title: An N=1 sample of my journey through tech
 date: '2023-01-12T12:00:00.00Z'
 description: "Just some perspective."
 ---
 
-### What inspired this? 
+## What inspired this? 
 
 I think at least in the Singapore context, maybe because of an education-focused and competitive culture (among other reasons), achieving conventional notions of success can be a great stressor. I think that it often leaves us wondering if we're doing enough, doing well, and doing the right things, all questions of comparison - and I find this especially true for computing students. 
 
@@ -12,7 +12,7 @@ I think it's not hard to find plenty of good resources on building your career i
 
 For a while now, my journey in university and tech has been a bit unconventional, and I'd just like to put it out there - just to provide my nothing-special-about-it perspective and maybe that helps to ground someone else's experiences. In some ways, [this post](https://haushofer.ne.su.se/Johannes_Haushofer_CV_of_Failures.pdf) is kinda what I'm going for - just some perspective.
 
-### A quick summary
+## A quick summary
 
 The TL;DR of this blog post is really just me going through the challenges I faced in my job hunt, some things that I think worked, some that I think didn't. I'll go through it chronologically, so it's hopefully something of a helpful basis for comparison for someone in a similar stage of their development. Like Kenneth, I intend to share my resumes, and I think I'll also link to some helpful resources I found along the way, but the focus is really just documenting a journey in a bite-size way to hopefully help someone contextualize their own experiences. It's a N=1 sample of one's journey in tech.
 
@@ -34,7 +34,7 @@ So, for those of you who're not sure about what you're studying, please, take my
 
 Inspired by some robotics projects and nudging by trusted adults, I changed my major, and started studying CS in Y2S2. Things felt right, finally, but I was about to enter the ever-anxiety-inducing and infamous CS internship grind. 
 
-### Year 2: the internship grind begins (2021)
+## Year 2: the internship grind begins (2021)
 
 * CS wasn't easy, I felt dumb eternally, I kinda still do
 * Kenneth's [blog post on resumes]() got me started on resume writing, do check it out because it's pretty helpful
@@ -58,7 +58,7 @@ Overall, I believe only 4 got back to me, and I got 2 offers. One of the failed 
 
 I am eternally grateful to have somehow gotten an offer from DSO to do machine learning research on radar imaging systems. I learnt a lot and honestly met some really awesome people, but I don't for a second think that I got it because I'm good - I was lucky, and I think about that very often because it grounds me.
 
-### Year 2 summer: my first internship at DSO and being largely lost
+## Year 2 summer: my first internship at DSO and being largely lost
 
 * DSO wasn't particularly nurturing, and I was put in a position where I had not much relevant skills nor support 
 * I struggled, made a ton of mistakes, but delivered in the end
@@ -66,7 +66,7 @@ I am eternally grateful to have somehow gotten an offer from DSO to do machine l
 
 In short, working at DSO wasn't terrible, but also wasn't great. For one, I was brought in to do research on machine learning for *radar image processing* - I had 0 background in signal processing or the relevant physics. I spent most days self-studying the math behind signal processing, reading a ton of papers on computer vision models and techniques, and banging my head wondering why my simulation pipeline had a bug in it - because it could come from my lack of understanding the physics, the fact that I was using parallel computation for the pipeline (which, again I learnt by literally reading the CUDA handbook), or just a careless mistake. The frustrating bit was that it was often the former two cases, and I sadly did not have as much support or guidance as I would have liked. Building the models were similarly challenging. 
 
-But from a larger perspective, I think working in that kind of low-support environment really is just a trial-by-fire - it sucked and honestly beat a lot at my self confidence. And honestly, I made a lot of mistakes. But it also helps to know that I didn't freeze and sink - I tried my best to learn as fast as I can, and built some working models and a simulation pipeline that to my knowledge is still in use today. 
+But from a larger perspective, I think working in that kind of low-support environment really is just a trial-by-fire - it sucked and honestly beat a lot at my self confidence. And plus, I made a lot of mistakes. But it also helps to know that I didn't freeze and sink - I tried my best to learn as fast as I can, and built some working models and a simulation pipeline that to my knowledge is still in use today. 
 
 At the end of my internship, I was exhausted - and I recently even found out from someone at DSO who spoke to my then-boss that I'm apparently not good at solving "open problems". I respectfully disagree, but I'm still grateful for having an internship at all at the time. They took a gamble on me, and I'm not sure either party was satisfied, but I learnt new things and had something to put on my resume, and for that alone I'm happy. Making the best of it, I guess.
 
@@ -116,17 +116,26 @@ I also made a website out of some mistaken feeling that it would make me more ap
 
 In this application cycle, I made about 68 applications according to my records - but it's probably more, seeing as I stopped logging them after a while. I iterated through 2 resume versions. I got a total of 3 offers - World Quant, Hypotenuse AI and Affable AI, and took the one at Hypotenuse AI. Their interviews were _by far_ the hardest - it was 3 hours of non-stop grilling. Convinced me that they knew what they were doing and there was high learning value in joining them.
 
-And as the semester and application cycle (and therefore, my struggles) came to an end, I had some reflections that I think are worth sharing: 
+And as the semester and application cycle (and therefore, my struggles) came to an end, I had some reflections that I think are worth sharing.
 
-- **Being very selective about startups was a good idea:** I applied to quite a few - in the Summation Programme alone, I applied to AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI. In many of these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
-- **You don't need to apply that early for startups:** I applied for startups in September. All of them asked why when I said it was for summer. A good number of them asked me to reapply in February, lol. I did. 
-- **Don't half-ass many things, whole-ass one thing:** I struggled so, so hard this semester. 6 mods, research, job applications... not conducive to mental health, personal relationships or your physical health. You also don't do things as well as you can, because you're stretched so thin. In fact, failing to really push on my research is one of the greatest regrets I have till this day. I'm not sure I could have done more, and there's always the "what if", but god, I wish I slowed down a little and didn't spread myself so thin. You live and you learn, I guess. 
-- **Make sure you can talk about everything on your resume:** This means literally making sure the links aren't broken, but also that you have enough familiarity to explain design choices, tech stacks, whatever. I really struggled in one of my interviews because I really struggled to put across why my project was hard and why my design choices made sense (the interviewer was very patient though, and thankfully so).
-- **Leetcode once a week is not enough (for me)**: I did medium/hards once a week. Did not see much improvement, and often struggled at mediums. To be fair, was also doing CS2040S during the application cycle, so it's kinda hard to do leetcode without knowing the theory. 
+### Being very selective about startups was a good idea
+I applied to quite a few - in the Summation Programme alone, I applied to AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI. In many of these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
+
+### You don't need to apply that early for startups
+ I applied for startups in September. All of them asked why when I said it was for summer. A good number of them asked me to reapply in February, lol. I did. 
+
+### Don't half-ass many things, whole-ass one thing
+I struggled so, so hard this semester. 6 mods, research, job applications... not conducive to mental health, personal relationships or your physical health. You also don't do things as well as you can, because you're stretched so thin. In fact, failing to really push on my research is one of the greatest regrets I have till this day. I'm not sure I could have done more, and there's always the "what if", but god, I wish I slowed down a little and didn't spread myself so thin. You live and you learn, I guess. 
+
+### Make sure you can talk about everything on your resume
+This means literally making sure the links aren't broken, but also that you have enough familiarity to explain design choices, tech stacks, whatever. I really struggled in one of my interviews because I really struggled to put across why my project was hard and why my design choices made sense (the interviewer was very patient though, and thankfully so).
+
+### Leetcode once a week is not enough (for me)
+I did medium/hards once a week. Did not see much improvement, and often struggled at mediums. To be fair, was also doing CS2040S during the application cycle, so it's kinda hard to do leetcode without knowing the theory. 
 
 I also rewarded myself with a trip to Bali at the end of this gruelling semester. I'm glad I did, because I felt refreshed and recharged and it made a world of difference. 
 
-### Year 3 summer: long hours but lots of learning at Hypotenuse
+## Year 3 summer: long hours but lots of learning at Hypotenuse
 
 * Mentorship was excellent, I was given a ton of responsibilities, and I always felt valued and cared for
 * I learnt so, so much, and built so many things - see [this](https://www.hypotenuse.ai/features/content-detective) and [this](https://www.hypotenuse.ai/ai-image-generator) :D
@@ -174,15 +183,19 @@ I was still stressed and insecure, but in a way that was different from the prev
 
 Generally, I was quite happy with this application cycle. I applied to a total of 112 companies according to my Notion. The sheer number of interviews I did helped to keep me warm, as did the leetcode, but it also really told me about the types of companies I really didn't like. Just as much as an interview is about them evaluating you, you are also evaluating them. Moving forward, I'm pretty sure finance firms/banks ain't it for me. I really didn't like GS's or JPM's (and a few others) hiring styles. But startups and big tech are still pretty cool, except for some (ahem ByteDance). Also, something I noticed was that for some reason somehow this year's replies/rejections/advancement to next round seemed super slow. As I write this in January, I've gotten about 5 emails telling me I've passed the resume screen - despite applying in October or so.
 
-I also got a _ton_ of rejections this year, and for many parts in this cycle I was pretty demoralized. I stopped counting when the rejections hit 40 or so, lol. The good 'ol "Thank you for your application" in the email subject stirs something in me to this day, lol. I think I found being rejected by Stripe and GovTech to be particularly disappointing, and they really shook my confidence in myself. 
+I also got a _ton_ of rejections this year, and for many parts in this cycle I was pretty demoralized. I stopped counting when the rejections hit 40 or so, lol. The good 'ol "Thank you for your application" in the email subject stirs something in me to this day. I think I found being rejected by Stripe and GovTech to be particularly disappointing, and they really shook my confidence in myself. 
 
 I was fortunate to receive a total of 5 offers - Apple, Palantir, Worldquant, Munich Re, AMD. I've accepted Palantir and Apple.
 
 Gratefulness aside, reflecting on the things I did, I think here are some thoughts I think are worth sharing?
 
-**I am not that good at algo questions, but god, `leetcode` really helps. Who knew?** I flunked the Google OA and Bytedance's one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.
+### I am not that good at algo questions, but god, `leetcode` really helps. Who knew?
 
-**Cast the net wide, it's a numbers game?** Looking back on my past few years, I notice that the rates of passing the resume screen and offer rates are roughly consistent. 
+I flunked the Google OA and Bytedance's one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.
+
+### Cast the net wide, it's a numbers game?** 
+
+Looking back on my past few years, I notice that the rates of passing the resume screen and offer rates are roughly consistent. 
 
 - 2020: 2/28 offers (7.2%), 34/28 (14.3%) got past resume screen.
 - 2021: 3/68 offers (4.4%), 7/68 (10.3%) got past resume screen.
@@ -192,11 +205,15 @@ Maybe this year is skewed since we're only in January and I'm stopping the count
 
 Somehow, I guess, this makes me feel better about all those rejections. 
 
-**I still don't know what I'm doing, and I'm just trying to focus on being a better engineer.** I think I've come a long way since the start, and I think I have a clearer sense of what I want to do with my life after graduation (inside and outside of work), but I wouldn't say I know it with conviction. I just have a sense of it. I kinda doubt I'll ever not have doubts in my choices or feel supremely confident about everything - I don't think I'd want to either, because I'd probably be an insufferable asshole - so I think I'll go back to what I've been focusing on: learning and being a better engineer. It gives me a sense of groundedness and contentment - I mean, maybe I'll be a shit engineer, and maybe I won't go far, but I can tell myself I tried my best, and I think that's good enough. I think I'm in part inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ because it just makes sense to me.
+### I still don't know what I'm doing, and I'm just trying to focus on being a better engineer
 
-**Man, comparison really is the thief of joy.** One thing that I think occasionally comes up and I'd like to share my views on - is the stress of comparison. It's inevitable - I'm working my ass off doing leetcode, applying for 102847184 positions and doing their online assessments, and failing, but my friends (seemingly) easily get an offer from FAANG or Stripe or Indeed despite applying late. I know those are exaggerations, but it really got to me at times. I have no solution or panacea, other than to say "it be like that", and to have faith in yourself, grit your teeth, and find some solace in the fact that you're trying your best. The good 'ol "trust the process" and "try to be content", I guess. What I'm really trying to say is, it really just is what it is, and there's nothing you can do about how you feel about comparisons, so be kinder to yourself, and let the comparisons tell you what's out there, what's next, rather than "what you've failed to achieve". It's helped me cope, so maybe it'll help you, too. 
+I think I've come a long way since the start, and I think I have a clearer sense of what I want to do with my life after graduation (inside and outside of work), but I wouldn't say I know it with conviction. I just have a sense of it. I kinda doubt I'll ever not have doubts in my choices or feel supremely confident about everything - I don't think I'd want to either, because I'd probably be an insufferable asshole - so I think I'll go back to what I've been focusing on: learning and being a better engineer. It gives me a sense of groundedness and contentment - I mean, maybe I'll be a shit engineer, and maybe I won't go far, but I can tell myself I tried my best, and I think that's good enough. I think I'm in part inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ because it just makes sense to me.
 
-### TL;DR
+### Man, comparison really is the thief of joy.
+
+One thing that I think occasionally comes up and I'd like to share my views on - is the stress of comparison. It's inevitable - I'm working my ass off doing leetcode, applying for 102847184 positions and doing their online assessments, and failing, but my friends (seemingly) easily get an offer from FAANG or Stripe or Indeed despite applying late. I know those are exaggerations, but it really got to me at times. I have no solution or panacea, other than to say "it be like that", and to have faith in yourself, grit your teeth, and find some solace in the fact that you're trying your best. The good 'ol "trust the process" and "try to be content", I guess. What I'm really trying to say is, it really just is what it is, and there's nothing you can do about how you feel about comparisons, so be kinder to yourself, and let the comparisons tell you what's out there, what's next, rather than "what you've failed to achieve". It's helped me cope, so maybe it'll help you, too. 
+
+## TL;DR
 
 I hope I achieved what I set out to do - provide an N=1 sample of how it feels like to go through the tech application cycle (and also, I guess, grow up?). I hoped you at least found it entertaining. Well, if nothing at all, it was like therapy for me, so that's good, I guess. 
 
