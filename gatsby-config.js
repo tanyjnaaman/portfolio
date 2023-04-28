@@ -20,7 +20,7 @@ module.exports = {
     resume: `https://drive.google.com/file/d/1Nn3kwaH1fpHfHhJzDk2OdnAj4D9M0Ziu/view?usp=share_link`,
     // Content of the About Me section
     about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
-      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - computer vision, natural language processing, graph machine learning, database/retrieval systems, parallel & distributed systems etc., and I think it's pretty neat.
+      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - natural language processing, database/retrieval systems, parallel & distributed systems etc., and I think it's pretty neat.
       Outside of work, I spend my time reading books, playing badminton and watching movies.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -89,14 +89,14 @@ module.exports = {
         description: 'Undergraduate Researcher, Aug 2021 - Feb 2022',
         link: 'https://ids.nus.edu.sg/',
         img:
-          'https://media.licdn.com/dms/image/C510BAQE9T84QQtao_g/company-logo_200_200/0/1552962369564?e=1682553600&v=beta&t=XrOgdCWhA0tfwT3q2c3xgadaLNYa7Hlnl-5HZn5qBl8',
+          'https://media.licdn.com/dms/image/C510BAQE9T84QQtao_g/company-logo_200_200/0/1552962369564?e=1691020800&v=beta&t=oGzGsA7gxKW5c8L4GM9ky4JjoU-gC-xa0ImlweKClYY',
       },
       {
         name: 'DSO National Laboratories',
         description: 'Machine Learning Engineer Intern, May 2021 - Aug 2021',
         link: 'https://www.dso.org.sg/',
         img:
-          'https://media.licdn.com/dms/image/C560BAQG_heWRrD9TSw/company-logo_200_200/0/1673234993826?e=1682553600&v=beta&t=rImavUZ5LEJasTJ0b08r6Cb6JgZMYpAInrpMSDFV_wA',
+          'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-6/272598223_3072371349745476_1024235071672432678_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=973b4a&_nc_ohc=tZ2ovK5EStsAX9RHXkc&_nc_ht=scontent.fsin16-1.fna&oh=00_AfBM9U2HLjZH-64HUIxnbFR2bxyAjk2-sF_hmLXGHEA-gA&oe=64513F82',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.

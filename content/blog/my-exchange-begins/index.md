@@ -124,7 +124,7 @@ So much for hoping for the weeks ahead for good health. Life can be funny. Anywa
 </details>
 
 <details open>
-<summary><b>Tore my MCL, went to Italy over Easter anyway... (written 14 March) </b></summary>
+<summary><b>Tore my MCL, went to Italy over Easter anyway... (written 14 April) </b></summary>
 <br>
 
 It's been a very hectic two weeks. In the last month or so I've intimately experienced the Swiss healthcare system (honestly, it's pretty good) because I tore my MCL playing badminton. But, my tickets to Italy over Easter were bought and non-refundable, so after several hospital visits and frantic replanning, we went to Rome and Florence. 
