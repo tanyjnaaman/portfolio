@@ -1,7 +1,7 @@
 ---
 title: Reflecting on leaving mechanical engineering, two years later
 date: '2023-01-15T12:00:00.00Z'
-description: "In hindsight, one of the best choices I've made for myself."
+description: "In hindsight, one of the best choices I've made for myself"
 ---
 
 ## Two years ago

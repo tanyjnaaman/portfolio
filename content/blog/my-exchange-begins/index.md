@@ -1,7 +1,7 @@
 ---
-title: A log of my 7 months abroad
-date: '2023-04-14T12:00:00.00Z'
-description: "Some real-time thoughts as I live in Zurich on exchange (and then work in London in the summer)."
+title: I went on exchange
+date: '2023-05-12T12:00:00.00Z'
+description: "Singapore -> Zurich -> London"
 ---
 <details closed>
 <summary><b>Pre flight (written 1 Feb)</b></summary>
@@ -24,9 +24,10 @@ When I'm back, a lot of things will be different, I think. I'd have completed a 
 <summary><b>First three days (written 5 Feb)</b></summary>
 <br>
 So far, Zurich is: 
-- very cold
-- very friendly
-- very expensive
+
+* very cold
+* very friendly
+* very expensive
 
 I like it here. People are nice, public transport is great, I generally feel safe. The city centre is beautiful. 
 
@@ -44,6 +45,7 @@ I'm so tired, but so far, so good. I hope I'll continue to make friends and do c
 <details closed>
 <summary><b>The 14th day (written 16 Feb)</b></summary>
 <br>
+
 As I write this, I have been on Swiss soil for 14 days now. Life is going pretty well - I've settled in quite nicely I think. It's gone by _quick_ though. In the last week or so I've completed German 1 (it's 3 x 2 hours a day, every day) which fulfils the first half of A1 German, climbed my first hill (the Swiss call it a molehill, but to my Singaporean mind the hike was tall), cooked my first rack of lamb for valentine's day (my girlfriend was kind enough to visit me from London), watched my first movie abroad (Swiss tickets are 17 CHF, and they have intermissions!) and got very cold a lot of the time. 
 
 It's been very good, but very exhausting. Moving abroad and setting up a comfortable (if temporary) "home", doing 6 hours of high-intensity language learning daily and packing my schedule to spend time with my girlfriend while she's visiting is pretty tough. Switzerland is beautiful though, and people here are generally very welcoming. And thank god for the fact that most people speak English - I'd have such a tough time otherwise.     
@@ -103,7 +105,7 @@ A lot of my friends will probably disagree with me - some of them have described
 
 I have unfortunately fallen sick this week, but I hope next week will be better :D.
 
-1. Travelling is expensive
+3. Travelling is expensive
 
 So far, I've been to Liechtenstein, Bern (Switzerland), and I'm heading to London this weekend to visit my girlfriend. We're also planning trips to Paris, Florence, Naples, and Rome. Maybe it's the penny pincher in me, but god, this hurts my wallet so much. 
 
@@ -123,8 +125,8 @@ So much for hoping for the weeks ahead for good health. Life can be funny. Anywa
 
 </details>
 
-<details open>
-<summary><b>Tore my MCL, went to Italy over Easter anyway... (written 14 April) </b></summary>
+<details closed>
+<summary><b>Tore my MCL, went to Italy over Easter anyway... and I'm now headed home (written 14 April) </b></summary>
 <br>
 
 It's been a very hectic two weeks. In the last month or so I've intimately experienced the Swiss healthcare system (honestly, it's pretty good) because I tore my MCL playing badminton. But, my tickets to Italy over Easter were bought and non-refundable, so after several hospital visits and frantic replanning, we went to Rome and Florence. 
@@ -132,4 +134,61 @@ It's been a very hectic two weeks. In the last month or so I've intimately exper
 It was a very solid (if exhausting) trip. Tomorrow, I head back to Singapore because I need to apply for my visa (for London) from Singapore - it's a little bit annoying. But it'll be nice to be home for a bit I think. I'm starting to get a little homesick, so this comes at a nice time.
 
 Wish me luck, because I need to be studying *hard* while dealing with my leg and jet lag. I'm very behind on my work.
+</details>
+
+<details closed>
+<summary><b>Back in Zurich, but headed off soon (written 12 May) </b></summary>
+<br>
+
+Wow, the last month has flown by. Felt like I've barely had any time just to decompress and relax. But today, I have a small pocket as I wait for my recorded lecture to be published, so here I am instead. In the three weeks I was home, some stuff happened, and I think taking some time to reflect on them is interesting, and some of these thoughts are worth sharing. 
+
+**Going home did not taste as sweet as I expected it to**
+
+In the weeks prior to heading home, I'd actually begun to feel homesick. My experience abroad had been almost exactly as the briefing had mentioned - you start off excited, start to feel homesick, before getting better and eventually stabilising. I'd been a bit homesick and was generally on the up, but I thought that going home would be nice. It was, but it also wasn't quite as sweet as I thought it'd be. Going back to familiarity was nice - I was so excited on that ride home from Changi to sit at my desk, sleep on my bed, eat familiar food - the feelings that I'd missed the most. Those feelings, however, were fleeting. I sat down, I ate, I slept. And then day 2 was just like any other day in Singapore. Was a little anticlimatic, in truth. 
+
+It was an interesting feeling. Perhaps that's what some of my more well-traveled or studying-abroad peers and relatives mean when they say they don't really miss home. Because perhaps I didn't, either - I just missed not feeling out-of-place, and in Zurich, I often do. 
+
+**A big decision was made**
+
+So, I decided to drop my second degree in economics. It came after a good chat with my partner. I think it's the right choice. 
+
+
+**I stayed on a European time zone**
+
+Turns out, going backwards in time from Singapore to Europe is much easier to adapt to than the other way around. I find it that way, anyway. Going to Europe is like sleeping late and then messing up your sleep schedule. Which isn't hard. Coming home is like fixing it. Which *is* hard. So for my first 7 days at home, I slept at 4 and woke at 11. Was an interesting experience eating *dinner* at midnight. 
+
+**Man, Singapore really has so many skyscrapers**
+
+Being in Zurich is interesting because there's virtually no tall buildings. I'd (without noticing it) gotten used to seeing the sky all the time, wherever I was. The sky here, is so blue, so often, too. When I went home, I spent some time at Telok Ayer, and had this moment where I felt a subtle sense of confusion that I couldn't place. It was because I couldn't really see the sky without looking up. 
+
+Zurich is nice. Too bad it's so far from home, and I'm neither German/German-speaking nor an EU citizen. And my partner is not Swiss. Maybe I'll be back one day, but probably only if Swiss immigration laws relax or I somehow achieve so much that they can justify giving me a work visa. We'll see. It's a nice place to be. Feels lot like the Singapore of Europe - ridiculously, painfully expensive, but things generally work and make sense. If I ever consider moving, I think Zurich will certainly be on my list.
+
+**It felt like a time skip**
+
+It was such an interesting experience coming home and almost experiencing something like a time skip. When you're away, the people you care about continue living - life goes on. So when I come home and we talk, it feels... strange sometimes. It's not the lack of familiarity, but just a strange lack of context to feelings and emotions of my friends and family that I find myself having to go "oh, what happened" or "oh, what do you mean". Kinda interesting to feel. 
+
+On a similar note is conversations that are somewhat one-sided in that they have 1984713946 things to tell you, and normally, distrbuted over a couple months, the points they raise sound sane and make sense. All at once, they get overwhelming. The best example of this I got was "are y'all gonna get married?". Lol.
+
+**Everyone is leaving, and I feel a little sad about that**
+
+One thing unique to this experience of mine, I suppose, is that I'm in my fourth year of university. All my friends are, too - and they're graduating, but I'm not. I can't help but feel a little sad that we can't have that "last semester" experience together, or graduate together and take nice graduation pictures. It also doesn't help that as I reflected on all those months ago - many of these friends are going abroad for grad school, and I won't be seeing them for a while. Some of them, I think, I won't see for an extra-long while, because they don't hope to come back. So there's that, too. 
+
+
+**Two weeks left before London**
+
+Anyway, I'm back in Zurich now. It feels bittersweet that I only have two weeks left here - the friends I've made, while not deep, have been wonderful, and how I wish we could continue being in each other's lives. It's been nice knowing them, though, and for many of them I hope we stay in touch. It'd be a shame not to.
+
+It does feel like an exciting time, though. My leg is healing quite nicely, in two weeks I'll be in London - for all its cosmopolitan shit-hole-ness, I also grew up in a city, and it's nice to be in one, sometimes. And in four weeks, I'll get started at Palantir - and from the material they've shared with us, I'm really excited to get started.
+
+</details>
+<details open>
+<summary><b>About to leave Zurich (written 19 May)</b></summary>
+<br>
+
+Tomorrow morning, I leave for London. In the short amount of time I've spent here, I've gotten to know a surprising number of people pretty well. It's a bit sad to go - to think that tomorrow, it'll be a long while before I get to see some of these people again. But I suppose that's the nature of these exchanges. It's on me, and on them, I guess, to keep these ties alive. To visit and check in on each other every so often. I hope I'll keep up my end of the deal. And plus, I suppose, it isn't quite over - I'm going to be back in Zurich for 2 days for my final exams in late August. By then, many of them would have gone home - but for the few who haven't, I think it'd be nice to grab lunch and catch up. 
+
+In the meantime, though, tomorrow is the start of a new chapter. I will try my best to be excited for it and keep my eyes on that. New challenges, new people, new things to work on. And if it is just half as good as my experience in Zurich, it's going to be great. I hope it'll be. 
+
+I'm going to miss Zurich. I'm going to miss Zurich a lot.
+
 </details>

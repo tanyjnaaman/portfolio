@@ -1,7 +1,7 @@
 ---
 title: Teaching CS2040 and CS3244 was not quite what I expected
 date: '2023-01-28T12:00:00.00Z'
-description: 'This sounds like a clickbait title.'
+description: 'It kinda surprised me pleasantly, actually'
 ---
 
 Last semester, I signed up to TA for CS2040 and CS3244. For those unfamiliar with those courses - CS2040 is a data structures and algorithms course for non-computing students, and CS3244 is a class on machine learning. The former is notorious for being challenging for non-computing students, while the latter has a reputation for being a little too touch-and-go in terms of how it teaches content.

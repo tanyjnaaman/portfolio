@@ -1,6 +1,6 @@
 ---
 title: Hello world!
-date: '2023-01-05T12:00:00.00Z'
+date: '2022-12-28T12:00:00.00Z'
 description: 'So, I decided to build a new website.'
 ---
 
@@ -12,6 +12,6 @@ It makes no difference, as I would find, but I do like the idea of having a plac
 
 ## Including blogs
 
-Just before I built my previous website, though, I started a private blog. While that's a place for my own personal thoughts and reflections on my journey (and at times, to mope, lol), I've also been thinking for a while to put my reflections and thoughts on the parts of me I'm willing to put _out there_, in part just because I like to, but in part also because I think I've read a lot of others' blogs, and many of them have given me new insights, and just as many have given me a sense of solace in knowing I'm not alone going through some of the experiences we share. But most of all, just as I wrote in the first post of my private blog, I like writing. I write a lot better than I speak, and I get a lot more out of my head when I write - and in a much more coherent fashion.
+Just before I built my previous website, though, I started a private blog. While that's a place for my own personal thoughts and reflections on my journey (and at times, to mope, lol), I've also been thinking for a while to put my reflections and thoughts on the parts of me I'm willing to put _out there_, in part just because I like to, but in part also because I think I've read a lot of others' blogs, and many of them have given me new insights, and just as many have given me a sense of solace in knowing I'm not alone going through some of the experiences we share. 
 
 So I now have a blog, I guess. Hopefully, it's not just noise. I do think it'll be like therapy for me, though, lol.

@@ -96,7 +96,7 @@ module.exports = {
         description: 'Machine Learning Engineer Intern, May 2021 - Aug 2021',
         link: 'https://www.dso.org.sg/',
         img:
-          'https://scontent.fsin16-1.fna.fbcdn.net/v/t39.30808-6/272598223_3072371349745476_1024235071672432678_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=973b4a&_nc_ohc=tZ2ovK5EStsAX9RHXkc&_nc_ht=scontent.fsin16-1.fna&oh=00_AfBM9U2HLjZH-64HUIxnbFR2bxyAjk2-sF_hmLXGHEA-gA&oe=64513F82',
+          'https://media.licdn.com/dms/image/C560BAQG_heWRrD9TSw/company-logo_200_200/0/1673234993826?e=1691625600&v=beta&t=xBhOjYmyheSIUZ0XBJ45M9bPJle60A40eWYLBWDj5qg',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -121,8 +121,7 @@ module.exports = {
     education: [
       {
         name: 'National University of Singapore',
-        description:
-          'B.Comp. Computer Science (CAP: 4.81/5.00) & B.A. Economics (CAP: 4.88/5.00), 2019 - 2024',
+        description: 'B.Comp. Computer Science (CAP: 4.81/5.00), 2019 - 2024',
         link:
           'https://drive.google.com/file/d/1lphCHCcE8nNz7W-wSfs_7ym0XaJOhwWw/view?usp=share_link',
         img:

@@ -1,7 +1,7 @@
 ---
 title: An N=1 sample of my journey through tech
 date: '2023-01-12T12:00:00.00Z'
-description: "Just some perspective."
+description: "Kenneth did one, so I guess I'll do one too"
 ---
 
 ## What inspired this? 
@@ -37,7 +37,7 @@ Inspired by some robotics projects and nudging by trusted adults, I changed my m
 ## Year 2: the internship grind begins (2021)
 
 * CS wasn't easy, I felt dumb eternally, I kinda still do
-* Kenneth's [blog post on resumes]() got me started on resume writing, do check it out because it's pretty helpful
+* Kenneth's [blog post on resumes](https://luyangkenneth.github.io/evolution-of-resumes/) got me started on resume writing, do check it out because it's pretty helpful
 * Googling, LinkedIn and glassdoor for e.g. "Machine Learning Engineer" is kinda enough to find things to apply for
 * I mass-applied for internships despite being desperately unqualified; I didn't even do leetcode (don't do this)
 * Started applying only in February (don't do this either, most interesting things are sadly, gone)
@@ -118,19 +118,19 @@ In this application cycle, I made about 68 applications according to my records 
 
 And as the semester and application cycle (and therefore, my struggles) came to an end, I had some reflections that I think are worth sharing.
 
-### Being very selective about startups was a good idea
+**Being very selective about startups was a good idea**
 I applied to quite a few - in the Summation Programme alone, I applied to AI Pallete, Affable AI, Polybee, Lauretta.io, Finantier and Hypotenuse AI. In many of these, and most of the startup interviews, I felt that they lacked rigour - questions were mostly non-technical in nature. The only ones that were different were Affable AI and Hypotenuse AI - they had challenging take home assignments and interesting technical and system design questions, and generally gave me the sense that they were talented people who knew what they were doing. This is important to me - and I think in general - because the opportunity cost of interning at a startup is not only the pay cut, but the learning opportunity from talented engineers/mentorship. In fast-moving organizations, interning without mentorship sucks.
 
-### You don't need to apply that early for startups
+**You don't need to apply that early for startups**
  I applied for startups in September. All of them asked why when I said it was for summer. A good number of them asked me to reapply in February, lol. I did. 
 
-### Don't half-ass many things, whole-ass one thing
+**Don't half-ass many things, whole-ass one thing**
 I struggled so, so hard this semester. 6 mods, research, job applications... not conducive to mental health, personal relationships or your physical health. You also don't do things as well as you can, because you're stretched so thin. In fact, failing to really push on my research is one of the greatest regrets I have till this day. I'm not sure I could have done more, and there's always the "what if", but god, I wish I slowed down a little and didn't spread myself so thin. You live and you learn, I guess. 
 
-### Make sure you can talk about everything on your resume
+**Make sure you can talk about everything on your resume**
 This means literally making sure the links aren't broken, but also that you have enough familiarity to explain design choices, tech stacks, whatever. I really struggled in one of my interviews because I really struggled to put across why my project was hard and why my design choices made sense (the interviewer was very patient though, and thankfully so).
 
-### Leetcode once a week is not enough (for me)
+**Leetcode once a week is not enough (for me)**
 I did medium/hards once a week. Did not see much improvement, and often struggled at mediums. To be fair, was also doing CS2040S during the application cycle, so it's kinda hard to do leetcode without knowing the theory. 
 
 I also rewarded myself with a trip to Bali at the end of this gruelling semester. I'm glad I did, because I felt refreshed and recharged and it made a world of difference. 
@@ -189,11 +189,11 @@ I was fortunate to receive a total of 5 offers - Apple, Palantir, Worldquant, Mu
 
 Gratefulness aside, reflecting on the things I did, I think here are some thoughts I think are worth sharing?
 
-### I am not that good at algo questions, but god, `leetcode` really helps. Who knew?
+**I am not that good at algo questions, but god, `leetcode` really helps. Who knew?**
 
 I flunked the Google OA and Bytedance's one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.
 
-### Cast the net wide, it's a numbers game?** 
+**Cast the net wide, it's a numbers game?** 
 
 Looking back on my past few years, I notice that the rates of passing the resume screen and offer rates are roughly consistent. 
 
@@ -205,11 +205,11 @@ Maybe this year is skewed since we're only in January and I'm stopping the count
 
 Somehow, I guess, this makes me feel better about all those rejections. 
 
-### I still don't know what I'm doing, and I'm just trying to focus on being a better engineer
+**I still don't know what I'm doing, and I'm just trying to focus on being a better engineer**
 
 I think I've come a long way since the start, and I think I have a clearer sense of what I want to do with my life after graduation (inside and outside of work), but I wouldn't say I know it with conviction. I just have a sense of it. I kinda doubt I'll ever not have doubts in my choices or feel supremely confident about everything - I don't think I'd want to either, because I'd probably be an insufferable asshole - so I think I'll go back to what I've been focusing on: learning and being a better engineer. It gives me a sense of groundedness and contentment - I mean, maybe I'll be a shit engineer, and maybe I won't go far, but I can tell myself I tried my best, and I think that's good enough. I think I'm in part inspired by [this wonderful blog post](https://lethain.com/forty-year-career/) and [this other one](https://nav.al/long-term), and I'd do no justice explaining it here - but the general idea is that I am optimizing for learning _rate_ because it just makes sense to me.
 
-### Man, comparison really is the thief of joy.
+**Man, comparison really is the thief of joy**
 
 One thing that I think occasionally comes up and I'd like to share my views on - is the stress of comparison. It's inevitable - I'm working my ass off doing leetcode, applying for 102847184 positions and doing their online assessments, and failing, but my friends (seemingly) easily get an offer from FAANG or Stripe or Indeed despite applying late. I know those are exaggerations, but it really got to me at times. I have no solution or panacea, other than to say "it be like that", and to have faith in yourself, grit your teeth, and find some solace in the fact that you're trying your best. The good 'ol "trust the process" and "try to be content", I guess. What I'm really trying to say is, it really just is what it is, and there's nothing you can do about how you feel about comparisons, so be kinder to yourself, and let the comparisons tell you what's out there, what's next, rather than "what you've failed to achieve". It's helped me cope, so maybe it'll help you, too. 
 

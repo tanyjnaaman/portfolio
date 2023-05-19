@@ -1,7 +1,7 @@
 ---
 title: Readings I come  back to
 date: '2023-01-30T12:00:00.00Z'
-description: 'Just a collection of blog posts I enjoyed.'
+description: 'Just a collection of blog posts I enjoyed'
 ---
 
 ## Blogs I check out
