@@ -5,27 +5,27 @@ module.exports = {
     // Your Name
     name: 'Naaman Tan',
     // Main Site Title
-    title: `Naaman Tan | Software Engineer`,
+    title: `Naaman Tan | Software & ML Engineer`,
     // Description that goes under your name in main bio
-    description: `Computer Science undergraduate with experience in full-stack development and NLP, CV and Geometric DL. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. `,
+    description: `Software Engineer juggling NLP/CV research. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. `,
     // Optional: Twitter account handle
     author: ``,
     // Optional: email address
-    email: `tannaaman@u.nus.edu`,
+    email: `tanyjnaaman@gmail.com`,
     // Optional: Github account URL
     github: `https://github.com/tanyjnaaman`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/tanyjnaaman/`,
     // Optional: link to resume
-    resume: `https://drive.google.com/file/d/1Nn3kwaH1fpHfHhJzDk2OdnAj4D9M0Ziu/view?usp=share_link`,
+    resume: `https://drive.google.com/file/d/1OcgXS-xHgBX1oufavyKkkMnK6CN6ur3I/view?usp=sharing`,
     // Content of the About Me section
-    about: `Hi! My name is Naaman. I'm a fourth year student studying Computer Science and Economics at the National University of Singapore.
-      I used to study engineering. But three unhappy semesters and a couple of robotics projects convinced me to take a leap of faith and study Computer Science instead, and I've not looked back since. I've spent a lot of my time in university focused on deep learning systems and its adjacent fields - natural language processing, database/retrieval systems, parallel & distributed systems etc., and I think it's pretty neat.
-      Outside of work, I spend my time reading books, playing badminton and watching movies.`,
+    about: `Hi! My name is Naaman. I just graduated from NUS with a degree in Computer Science, and I'm currently working as a Software Engineer at Palantir. 
+    I spend most of my time these days bouncing between my full time job and research work with Ryan Cotterel's group at ETH Zurich. Outside of work, I spend my time reading books, playing badminton and watching movies.
+    I'm always looking for fun and interesting projects to work on, so feel free to reach out to me and let's build something together.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'NUS Notes and Reviews (Ongoing)',
+        name: 'NUS Notes and Reviews',
         description: `A collection of my notes and reviews of the classes I take at NUS.`,
         link: 'https://github.com/tanyjnaaman/NUS-notes-and-reviews',
       },
@@ -56,6 +56,13 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` and `img` are optional.
     experience: [
       {
+        name: 'Palantir Technologies (London)',
+        description: 'Software Engineer, Aug 2024 - Present',
+        link: 'https://www.palantir.com/',
+        img:
+          'https://companieslogo.com/img/orig/PLTR-236711ab.png?t=1634119414&download=true',
+      },
+      {
         name: 'Apple Inc.',
         description: 'Machine Learning Engineer Intern, Sept 2023 - Dec 2023',
         link: 'https://searchads.apple.com/',
@@ -63,15 +70,21 @@ module.exports = {
           'https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png',
       },
       {
+        name: 'ETH Institute for Machine Learning',
+        description: 'Bachelor Thesis, Aug 2023 - May 2024',
+        link: 'https://rycolab.io/',
+        img: 'https://ethz.ch/etc/designs/ethz/img/header/ethz_logo_black.svg',
+      },
+      {
         name: 'Palantir Technologies (London)',
-        description: 'Software Engineer Intern, June 2023 - Sept 2023',
+        description: 'Software Engineer Intern, June 2023 - Aug 2023',
         link: 'https://www.palantir.com/',
         img:
           'https://companieslogo.com/img/orig/PLTR-236711ab.png?t=1634119414&download=true',
       },
       {
         name: 'Institute for Infocomm Research, A*STAR',
-        description: 'Research Intern, Nov 2022 - June 2023',
+        description: 'Research Intern, Nov 2022 - Feb 2023',
         link:
           'https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-nancy-f-chen',
         img:
@@ -82,21 +95,20 @@ module.exports = {
         description: 'Full-Stack Software Engineer Intern, May 2022 - Aug 2022',
         link: 'https://www.hypotenuse.ai/',
         img:
-          'https://images.glints.com/unsafe/180x0/glints-dashboard.s3.amazonaws.com/company-logo/202f62685abc2dd727eb211222da3f3c.png',
+          'https://uploads-ssl.webflow.com/5f23b456c81e6bebb921e9cb/61a48adb48c78040c98d75e9_PURPLE%20FINAL%20logo.png',
       },
       {
         name: 'Institute of Data Science, NUS',
         description: 'Undergraduate Researcher, Aug 2021 - Feb 2022',
         link: 'https://ids.nus.edu.sg/',
-        img:
-          'https://media.licdn.com/dms/image/C510BAQE9T84QQtao_g/company-logo_200_200/0/1552962369564?e=1691020800&v=beta&t=oGzGsA7gxKW5c8L4GM9ky4JjoU-gC-xa0ImlweKClYY',
+        img: 'https://ids.nus.edu.sg/images/ids-logo.png',
       },
       {
         name: 'DSO National Laboratories',
         description: 'Machine Learning Engineer Intern, May 2021 - Aug 2021',
         link: 'https://www.dso.org.sg/',
         img:
-          'https://media.licdn.com/dms/image/C560BAQG_heWRrD9TSw/company-logo_200_200/0/1673234993826?e=1691625600&v=beta&t=xBhOjYmyheSIUZ0XBJ45M9bPJle60A40eWYLBWDj5qg',
+          'https://nus.edu.sg/cfg/images/default-source/events-company-logo/dso-national-laboratories.png?sfvrsn=e30fe862_2',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -109,19 +121,19 @@ module.exports = {
       {
         name: 'Engineering Frameworks/Tools/Libraries',
         description:
-          'Express • FastAPI • React • Docker • Kubernetes • Redis • AWS (EC2, Sagemaker, SQS, SNS, DynamoDB) • Postgres',
+          'Express • FastAPI • React • Docker • Kubernetes • AWS (EC2, Sagemaker, SQS, SNS, DynamoDB) • Postgres • AtlasDB • conjure • graphQL',
       },
       {
         name: 'Machine Learning Frameworks/Tools/Libraries',
         description:
-          'PyTorch/Pytorch-Geometric • Tensorflow/Keras • Flax/Jax • Scikit-Learn • CUDA • WandB • DagsHub',
+          'PyTorch/Pytorch-Geometric • Tensorflow/Keras • Flax/Jax • CUDA • WandB • DagsHub',
       },
     ],
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
         name: 'National University of Singapore',
-        description: 'B.Comp. Computer Science (CAP: 4.81/5.00), 2019 - 2024',
+        description: 'B.Comp. Computer Science (CAP: 4.84/5.00), 2019 - 2024',
         link:
           'https://drive.google.com/file/d/1lphCHCcE8nNz7W-wSfs_7ym0XaJOhwWw/view?usp=share_link',
         img:
@@ -131,8 +143,7 @@ module.exports = {
         name: 'ETH Zurich (Exchange)',
         description: 'B.Comp. Computer Science, 2023 - 2023',
         link: '',
-        img:
-          'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1495463136/pn8oq8zmmspjtjvpcbiv.png',
+        img: 'https://ethz.ch/etc/designs/ethz/img/header/ethz_logo_black.svg',
       },
     ],
   },

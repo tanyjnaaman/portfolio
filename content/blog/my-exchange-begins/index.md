@@ -1,6 +1,6 @@
 ---
 title: I went on exchange
-date: '2023-05-12T12:00:00.00Z'
+date: '2023-09-09T12:00:00.00Z'
 description: "Singapore -> Zurich -> London"
 ---
 <details closed>
@@ -71,7 +71,7 @@ Can't help start to feel lonely, though. Moving abroad isn't quite as rosey as i
 
 I entered the country on the 2nd of February. Today, it's a Wednesday, on the 8th of March. I've been meaning to find some time to sit and write, but the semester is starting to get busy. But I have a bit of time today - mostly because I'm sick and decided to take it easy (it's not easy getting better in a cold, dry country), so here I am. 
 
-1. My classes/research: generally, great!
+**1. My classes/research: generally, great!**
 
 I'm reading four classes this semester: 
 * [263-5354-00L  Large Language Models](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=171001&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en)
@@ -91,7 +91,7 @@ Financial economics. Not a fan. But I'll get through it. I haven't attended a si
 
 I'm also working on a research project with I2R back home (remotely) and in person here with Dr. Ryan's lab. It's a bit busy, but the topics - multimodal engagement detection, and explainable evaluation for large language models - are exciting and tickle my brain. I'm excited to work on them! :-) 
 
-2. Living abroad, more generally: pros, cons, and I think I'm okay with it - just okay
+**2. Living abroad, more generally: pros, cons, and I think I'm okay with it - just okay**
 
 I'm not sure what it's like in other countries - and I suspect it's different because of the relative sizes of other countries - but in Singapore, being able to go abroad seems like a big thing. When someone says that they're going abroad to study or work, they are often met with "wows" and "congratulations". It's some sort of a medium-to-big deal. My peers have faced that, and I too have. A related phenomenon is a general desire to emigrate and leave - you can see it [here](https://hypeandstuff.com/why-i-chose-to-leave-singapore/), [here](https://www.quora.com/Why-do-people-want-to-leave-Singapore) and [here](https://www.reddit.com/r/singapore/comments/p1iz2d/exsingaporean_what_made_you_leave_singapore_i_can/), amongst the many other articles and forum posts about it within the Singapore context. And it's an interesting contrast to what immigrants often think about Singapore, which seems to bounce between the extremes of [authoritarian dystopia](https://www.quora.com/Is-Singapore-an-authoritarian-government) and [a great place](). It's a strange feeling, then, to be on this side of the discussion and experience what it's like to live abroad for a while. 
 
@@ -105,7 +105,7 @@ A lot of my friends will probably disagree with me - some of them have described
 
 I have unfortunately fallen sick this week, but I hope next week will be better :D.
 
-3. Travelling is expensive
+**3. Travelling is expensive**
 
 So far, I've been to Liechtenstein, Bern (Switzerland), and I'm heading to London this weekend to visit my girlfriend. We're also planning trips to Paris, Florence, Naples, and Rome. Maybe it's the penny pincher in me, but god, this hurts my wallet so much. 
 
@@ -181,7 +181,8 @@ Anyway, I'm back in Zurich now. It feels bittersweet that I only have two weeks 
 It does feel like an exciting time, though. My leg is healing quite nicely, in two weeks I'll be in London - for all its cosmopolitan shit-hole-ness, I also grew up in a city, and it's nice to be in one, sometimes. And in four weeks, I'll get started at Palantir - and from the material they've shared with us, I'm really excited to get started.
 
 </details>
-<details open>
+
+<details closed>
 <summary><b>About to leave Zurich (written 19 May)</b></summary>
 <br>
 
@@ -190,5 +191,82 @@ Tomorrow morning, I leave for London. In the short amount of time I've spent her
 In the meantime, though, tomorrow is the start of a new chapter. I will try my best to be excited for it and keep my eyes on that. New challenges, new people, new things to work on. And if it is just half as good as my experience in Zurich, it's going to be great. I hope it'll be. 
 
 I'm going to miss Zurich. I'm going to miss Zurich a lot.
+
+</details>
+
+<details closed>
+<summary><b>I'm now in London! (written 26 May)</b></summary>
+<br>
+
+It's been a week. 
+
+London is a bit more of a shithole compared to Zurich, but it's so much more... vibrant? I get so many more "how are you's" and random conversations with strangers, and it almost feels as if everyone has this big dream or weird side project or gig or hustle or whatever. It's... interesting. I kinda like it. Summer extending nightfall to like 10pm also helps with the whole safety thing, I think. Messes with my sleep schedule, though.
+
+Getting my own place, while a natural extension to staying in school-provided accomadation (as in Singapore, or in Zurich), feels so different. So much more responsibility, less benefits from scale (we clean everything ourselves, more expensive), but also so much more private. It feels kinda cool, actually. This new flat, while superbly located in the city centre, was in an absolutely filthy state when I moved in. Have you ever mopped a floor *16 times and it's still dirty??* But with great thanks to my room mate for sticking through it with me, we've cleaned up the place real nice, and I think we've settled in pretty well. 
+
+It was a bit of a shame by partner and I couldn't both find jobs here, because man, wouldn't that just be so cool to do together? She did help me move in, though, and I helped her move out - she's headed to New Haven for an internship, too. It was nice to have that little overlap in London. 
+
+Next week: a quick trip to Amsterdam, lots of studying, and then my first week of work the week after that! I'm really excited.
+
+</details>
+
+<details closed>
+<summary><b>Went to Amsterdam. Also, first week of work starts tomorrow (written 4 June)</b></summary>
+<br>
+
+Amsterdam was an interesting and eye-opening (albeit exhausting) experience. My journey to Amsterdam began eventfully - my ride to the airport involved multiple train delays, my flight was delayed over an hour, and then I was almost kicked off said flight because it was overbooked. An on arrival, between visiting the red-light district, the constant smell of weed and the general degree of positivity and openess, I found Amsterdam eye-opening. It was pretty fun, too, in no small part because the city really has some really interesting sights and great food. My trip home was equally bumpy - it took me a total of 8 hours to get home. My hour long flight was bookended by a flight delay before departure, and a mix of hitch-hiking, cab-splitting and a long uber ride home on arrival as national rail strikes across the UK left me with no train home and competing with literally everyone else at that airport for a ride home. It was interesting. 
+
+Since coming back, I've spent some time just *recovering*, doing some studying and looking after myself. Oh, and Manchester United lost the FA cup final. Tonight, I watch Spiderverse 2, and tomorrow, I start work. I'm excited! 
+
+</details>
+
+<details closed>
+<summary><b>Two weeks in, kinda drowning, trying to float (written 21 June)</b></summary>
+<br>
+
+Very quickly, two and a half weeks have flown by. I have been onboarded, introduced to my team, and as of today, I've merged a small handful of PRs. It's been tough. The first week wasn't much - a ton of introductory material and socials, but it was really manageable. As expected, I guess. But the second week, the last 10 days, have been tough. A big company's code base is miles apart from a plucky startup - layers, layers and more layers of abstraction, a horrific amount of tooling, and outdated (and often non-existent) documentation. The level of talent here is also higher, I think - where in other organizations I've typically, honestly, coasted by putting in 60-70% effort, here I'm barely keeping up putting in my all. Last week in particular, was really tough, because I felt frustrating unproductive, guiltily-burdensome and probably the stupidest I've felt in a long time. I've never thought of myself as an excellent developer, just maybe slighty above the average, but the last week has made me felt like I'm in the botto of the barrel. 
+
+At the end of last week, I found myself feeling overwhelmed and absolutely spent. So I took some quiet time (a very rare thing these days - so many meetings!) to reflect. And my thoughts can essentially be summarized as: don't freeze, keep your ego at the door, ask lots of questions (shamelessly), be careful/polish your work more (I got 50+ comments on my first PR, lol). And this week, I've put a lot time into exactly those things - asking questions to unblock myself, trying to be careful with my work, and well, just not giving up. Today was - in the words of my friend Karlo, a fellow intern - the first day I've not felt like an absolute failure. He, too, like many of the other interns, has been struggling. It might sound dramatic, exaggerated - and it is - but I think it captures that feeling of exasperation and your ego being swiftly crushed by a new and unfamilliar challenge. 
+
+I don't think I'm quite out of the woods yet - but fingers crossed the rest of the week is just as not-bad, and may god help me with managing my studies and final year thesis on top of these things. 
+
+</details>
+
+
+<details closed>
+<summary><b>I'm so exhausted! (written 22 July)</b></summary>
+<br>
+
+It's been a month, since then. Many ups and downs, I think. The good: I'm picking things up relatively well, my quality of work has been improving slowly but steadily, and I'm integrating quite nicely into the team. Some highlights: going go karting with the team and doing a fun little presentation we call hashtags (where you share topical things about yourself). The not so good: I can do better, and things are very busy at work. The bad: managing work alongside research ands studying for three exams is rough. I've more or less not had a single day that I've worked (as in, worked, worked on research, or studied) less than 12 hours since being to London. And I'm exhausted. 
+
+Took a break this evening, and I think I might just take some time off tomorrow to take a rest. I think I'm burning out, and I think I need that break.
+
+I have an exam next Saturday, another one the Tuesday the week after that, and another one in Zurich at the end of August. 
+
+I'm trying my best to float! Fingers crossed. 
+
+</details>
+
+<details closed>
+<summary><b>Back in Zurich for my final exam (written 25 August)</b></summary>
+<br>
+
+I'm back in Zurich. About 11 hours ago, I finished my last exam for the semester, and with that, marked the end of what has been a very long (and fun, but definitely long) 8 months studying and working. After which, I rewarded myself with some strawberries and popped by the ETH AI Center to visit my thesis supervisor. I'll be working with [Clara Meister](https://cimeister.github.io/), who is a fantastic supervisor and generally awesome person. 
+
+I then spent the rest of the day chilling at a cafe and walking around Zurich, because it'll probably be a while before I'm back. Zurich is pretty great, and I'll miss it. Landing at the airport three days ago felt like a breath of fresh air - suddenly all was clean, functional, safe, and generally just... good - except the weather. Zurich had a heat wave and reached 35C for a couple days. And the last two days, despite crashing on a couch of a friend (who really hasn't taken good care of her apartment, lol), it has been really nice being back here. 
+
+Tomorrow, I head off to Basel to begin a 5 day holiday with a friend around Switzerland and France. I'm really looking forward to this break. I've been working myself pretty hard for the last couple months, and I kinda need these few days just to rot and relax. Take stock. Before, of course, going back to the grind - application season is opening, as are grad school applications. I'm a little anxious about those, but I'm sure I'll manage it fine. 
+
+I'll probably spend some time at the end of all of this writing a bit more about my 8 months abroad. But the big TL;DR of it - it's been hard, so, so much harder than I thought it would be, but also so much more enriching and worth it than I thought it would be, too. It's been a good 8 months. 
+
+</details>
+
+<details open>
+<summary><b>I'm home (written 9 September)</b></summary>
+<br>
+
+I've now been back for a week. Between the jet lag, scurrying around meeting old friends and getting my shit together for school and application season, it's been a pretty busy week, and I haven't quite had the time to reflect upon the past 8 months aborad. There are a lot of feelings and thoughts, and I'll probably go through them at a later date. Especially because I'm starting my internship at Apple on Monday, and application season is upon us. But while things are busy (and only going to get more so), the warm weather - while sometimes insufferable - agrees with me. The food is familiar. My friends and family are here. I'm glad to be back.
+
+My chapter abroad is now closed. Thanks for reading. 
 
 </details>

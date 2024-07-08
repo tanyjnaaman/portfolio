@@ -1,18 +1,11 @@
 ---
-title: An N=1 sample of my journey through tech
+title: My own evolution of resumes
 date: '2023-01-12T12:00:00.00Z'
-description: "Kenneth did one, so I guess I'll do one too"
+description: "An N=1 sample of one's (early) journey in tech"
 ---
 
-## What inspired this? 
 
-I think at least in the Singapore context, maybe because of an education-focused and competitive culture (among other reasons), achieving conventional notions of success can be a great stressor. I think that it often leaves us wondering if we're doing enough, doing well, and doing the right things, all questions of comparison - and I find this especially true for computing students. 
-
-I think it's not hard to find plenty of good resources on building your career in tech - Kenneth's [very famous blog post](https://luyangkenneth.github.io/evolution-of-resumes/), for example, is one of the most popular ones. But I've found it harder to find blogs that shared their struggles and gave me a sense of whether my expectations and perceptions were distorted or realistic, because sometimes it feels almost as if every blog post was written by some secret genius wonderkid who's a main character in their character arc to success. 
-
-For a while now, my journey in university and tech has been a bit unconventional, and I'd just like to put it out there - just to provide my nothing-special-about-it perspective and maybe that helps to ground someone else's experiences. In some ways, [this post](https://haushofer.ne.su.se/Johannes_Haushofer_CV_of_Failures.pdf) is kinda what I'm going for - just some perspective.
-
-## A quick summary
+I think it's not hard to find plenty of good resources on building your career in tech - Kenneth's [very famous blog post](https://luyangkenneth.github.io/evolution-of-resumes/), for example, is one of the most popular ones. For a while now, my journey in university and tech has been a bit unconventional, and I'd just like to put it out there - just to provide my nothing-special-about-it perspective and maybe that helps to ground someone else's experiences. In some ways, [this post](https://haushofer.ne.su.se/Johannes_Haushofer_CV_of_Failures.pdf) is kinda what I'm going for - just some perspective, and maybe it'll entertain someone.
 
 The TL;DR of this blog post is really just me going through the challenges I faced in my job hunt, some things that I think worked, some that I think didn't. I'll go through it chronologically, so it's hopefully something of a helpful basis for comparison for someone in a similar stage of their development. Like Kenneth, I intend to share my resumes, and I think I'll also link to some helpful resources I found along the way, but the focus is really just documenting a journey in a bite-size way to hopefully help someone contextualize their own experiences. It's a N=1 sample of one's journey in tech.
 
@@ -23,7 +16,7 @@ The TL;DR of this blog post is really just me going through the challenges I fac
 * It was really hard
 * At the advice of some teachers I bit the bullet and changed my major
 
-My journey in Computer Science has been unconventional, I think. I entered university studying mechanical engineering, and I really did not enjoy a lot of it. Hated it. But I kinda knew that something didn't feel right even before coming into university, so really, a lot of my first year to  year-and-a-half was spent on doing as many things as widely and broadly as possible - case competitions, engineering projects, book clubs, whatever. 
+My journey in Computer Science has been unconventional. I entered university studying mechanical engineering, and I really did not enjoy a lot of it. Hated it, really. But I kinda knew that something didn't feel right even before coming into university, so really, a lot of my first year to  year-and-a-half was spent on doing as many things as widely and broadly as possible - case competitions, engineering projects, book clubs, whatever. 
 
 Honestly, I had no idea what I was doing, it was really just exploring and praying that "things will work out eventually". As a result, I never even considered interning in the summer of year 1. Some of my friends did, but I was so far away from knowing what I wanted to do that I didn't even feel underqualified - I just felt lost. I was stressed all the time about it, and often times felt as if "maybe I can just roll with it". I never did, though, because it never sat right with me to study something I hated.
 
@@ -220,3 +213,4 @@ I hope I achieved what I set out to do - provide an N=1 sample of how it feels l
 I'm grateful for everyone who's helped me along the way, and I'd like to say for anyone of you guys out there - keep going! 
 
 Maybe I'll look back on this one day with a palm on my face and in embarrassment. Anyway, for now, I'm headed to Zurich for exchange, and after that I'll fortunately be interning at Palantir in London. Exciting times! Imposter syndrome is sure to get me, but hey, let's hope I float.
+
