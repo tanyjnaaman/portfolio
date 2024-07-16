@@ -20,7 +20,7 @@ module.exports = {
     resume: `https://drive.google.com/file/d/1OcgXS-xHgBX1oufavyKkkMnK6CN6ur3I/view?usp=sharing`,
     // Content of the About Me section
     about: `Hi! My name is Naaman. I just graduated from NUS with a degree in Computer Science, and I'm currently working as a Software Engineer at Palantir. 
-    I spend most of my time these days bouncing between my full time job and research work with Ryan Cotterel's group at ETH Zurich. Outside of work, I spend my time reading books, playing badminton and watching movies.
+    I spend most of my time these days bouncing between my full time job and research work with Ryan Cotterell's group at ETH Zurich. Outside of work, I spend my time reading books, making meals and watching movies.
     I'm always looking for fun and interesting projects to work on, so feel free to reach out to me and let's build something together.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
